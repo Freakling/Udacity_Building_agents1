@@ -1,0 +1,252 @@
+[
+  {
+    "id": "game_001",
+    "title": "FIFA 21",
+    "developer": "EA Sports",
+    "publisher": "Electronic Arts",
+    "release_date": "2020-10-09",
+    "platforms": ["PlayStation 4", "Xbox One", "PC", "Nintendo Switch", "PlayStation 5", "Xbox Series X/S"],
+    "genre": "Sports",
+    "description": "FIFA 21 is a football simulation video game published by Electronic Arts under the EA Sports label. It features various improvements including faster gameplay, enhanced FUT co-op mode, Volta Football updates, and improved career mode with interactive match simulation."
+  },
+  {
+    "id": "game_002",
+    "title": "God of War Ragnarok",
+    "developer": "Santa Monica Studio",
+    "publisher": "Sony Interactive Entertainment",
+    "release_date": "2022-11-09",
+    "platforms": ["PlayStation 5", "PlayStation 4"],
+    "genre": "Action-Adventure",
+    "description": "God of War Ragnarok is an action-adventure game and the ninth installment in the God of War series. Set in Norse mythology, it follows Kratos and his son Atreus as they prepare for Ragnarok while facing new threats from Asgard, including Thor and eventually Odin himself."
+  },
+  {
+    "id": "game_003",
+    "title": "Pokemon Red",
+    "developer": "Game Freak",
+    "publisher": "Nintendo",
+    "release_date": "1996-02-27",
+    "platforms": ["Game Boy"],
+    "genre": "Role-Playing Game (RPG)",
+    "description": "Pokemon Red is a role-playing game developed by Game Freak and published by Nintendo for the Game Boy. It was the first entry in the Pokemon main series, allowing players to catch, train, and battle creatures called Pokemon. The game launched simultaneously with Pokemon Blue in Japan, and with Pokemon Blue and Yellow in other regions."
+  },
+  {
+    "id": "game_004",
+    "title": "Grand Theft Auto V",
+    "developer": "Rockstar North",
+    "publisher": "Rockstar Games",
+    "release_date": "2013-09-17",
+    "platforms": ["PlayStation 3", "Xbox 360", "PlayStation 4", "Xbox One", "PC", "PlayStation 5", "Xbox Series X/S"],
+    "genre": "Action-Adventure",
+    "description": "Grand Theft Auto V is an open-world action-adventure game set in the fictional state of San Andreas. It follows three protagonists: Michael, Trevor, and Franklin, as they plan heists while under pressure from government agencies. The game features GTA Online, a persistent online multiplayer world."
+  },
+  {
+    "id": "game_005",
+    "title": "The Legend of Zelda: Breath of the Wild",
+    "developer": "Nintendo EPD",
+    "publisher": "Nintendo",
+    "release_date": "2017-03-03",
+    "platforms": ["Nintendo Switch", "Wii U"],
+    "genre": "Action-Adventure",
+    "description": "The Legend of Zelda: Breath of the Wild is an open-world action-adventure game in which Link awakens after 100 years of slumber to defeat Calamity Ganon. It features a massive open world, physics-based puzzle solving, and a non-linear approach to exploration and progression."
+  },
+  {
+    "id": "game_006",
+    "title": "Minecraft",
+    "developer": "Mojang Studios",
+    "publisher": "Mojang Studios",
+    "release_date": "2011-11-18",
+    "platforms": ["PC", "PlayStation 4", "Xbox One", "Nintendo Switch", "iOS", "Android", "PlayStation 3", "Xbox 360"],
+    "genre": "Sandbox / Survival",
+    "description": "Minecraft is a sandbox video game where players explore blocky, procedurally generated worlds and build constructions from various textured cubes. It features survival gameplay, creative mode, and multiplayer. Originally created by Markus 'Notch' Persson, the game was later developed by Mojang and sold to Microsoft in 2014."
+  },
+  {
+    "id": "game_007",
+    "title": "Elden Ring",
+    "developer": "FromSoftware",
+    "publisher": "Bandai Namco Entertainment",
+    "release_date": "2022-02-25",
+    "platforms": ["PlayStation 5", "PlayStation 4", "Xbox Series X/S", "Xbox One", "PC"],
+    "genre": "Action RPG",
+    "description": "Elden Ring is an action role-playing game developed by FromSoftware in collaboration with author George R. R. Martin, who created the game's world mythology. Set in the Lands Between, players explore an open world as a Tarnished seeking to restore the Elden Ring and become Elden Lord."
+  },
+  {
+    "id": "game_008",
+    "title": "Cyberpunk 2077",
+    "developer": "CD Projekt Red",
+    "publisher": "CD Projekt",
+    "release_date": "2020-12-10",
+    "platforms": ["PC", "PlayStation 4", "Xbox One", "PlayStation 5", "Xbox Series X/S", "Google Stadia"],
+    "genre": "Action RPG",
+    "description": "Cyberpunk 2077 is an open-world action role-playing game set in Night City, a megalopolis obsessed with power, glamour, and body modification. Players take on the role of V, a mercenary outlaw, and must work with Johnny Silverhand (played by Keanu Reeves) to find a way to survive a rogue biochip implanted in their brain."
+  },
+  {
+    "id": "game_009",
+    "title": "Halo Infinite",
+    "developer": "343 Industries",
+    "publisher": "Xbox Game Studios",
+    "release_date": "2021-12-08",
+    "platforms": ["Xbox Series X/S", "Xbox One", "PC"],
+    "genre": "First-Person Shooter",
+    "description": "Halo Infinite is a first-person shooter developed by 343 Industries and the sixth main entry in the Halo series. It features Master Chief on a Zeta Halo ring after a devastating attack by the Banished. The game introduced an open-world campaign and a free-to-play multiplayer component."
+  },
+  {
+    "id": "game_010",
+    "title": "Fortnite",
+    "developer": "Epic Games",
+    "publisher": "Epic Games",
+    "release_date": "2017-07-21",
+    "platforms": ["PC", "PlayStation 4", "Xbox One", "Nintendo Switch", "iOS", "Android", "PlayStation 5", "Xbox Series X/S"],
+    "genre": "Battle Royale",
+    "description": "Fortnite is a battle royale game where 100 players compete to be the last person or team standing. It features a unique building mechanic and a vibrant art style. The game is regularly updated with new seasons, crossover events with popular IPs, and a live service model with a free-to-play cosmetics store."
+  },
+  {
+    "id": "game_011",
+    "title": "Marvel's Spider-Man: Miles Morales",
+    "developer": "Insomniac Games",
+    "publisher": "Sony Interactive Entertainment",
+    "release_date": "2020-11-12",
+    "platforms": ["PlayStation 5", "PlayStation 4", "PC"],
+    "genre": "Action-Adventure",
+    "description": "Marvel's Spider-Man: Miles Morales is an action-adventure game following Miles Morales as he navigates New York City while learning to be a new Spider-Man. It features expanded bio-electric venom powers and camouflage abilities unique to Miles, as he faces Roxxon Energy Corporation and the Underground."
+  },
+  {
+    "id": "game_012",
+    "title": "Assassin's Creed Valhalla",
+    "developer": "Ubisoft Montreal",
+    "publisher": "Ubisoft",
+    "release_date": "2020-11-10",
+    "platforms": ["PlayStation 5", "PlayStation 4", "Xbox Series X/S", "Xbox One", "PC", "Google Stadia"],
+    "genre": "Action RPG",
+    "description": "Assassin's Creed Valhalla is set in the 9th century and follows Eivor Varinsdottir, a Viking raider who leads their clan from Norway to England. Players build and expand a Viking settlement while engaging in raids, building alliances, and uncovering the mystery of a hidden organization called the Order of the Ancients."
+  },
+  {
+    "id": "game_013",
+    "title": "Among Us",
+    "developer": "InnerSloth",
+    "publisher": "InnerSloth",
+    "release_date": "2018-06-15",
+    "platforms": ["PC", "iOS", "Android", "Nintendo Switch", "PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X/S"],
+    "genre": "Social Deduction",
+    "description": "Among Us is a multiplayer social deduction game set in a space-themed setting. Players work together to maintain a spaceship while impostors among the crew attempt to sabotage the mission and eliminate crewmates. The game gained massive popularity during the COVID-19 pandemic in 2020."
+  },
+  {
+    "id": "game_014",
+    "title": "Animal Crossing: New Horizons",
+    "developer": "Nintendo EPD",
+    "publisher": "Nintendo",
+    "release_date": "2020-03-20",
+    "platforms": ["Nintendo Switch"],
+    "genre": "Life Simulation",
+    "description": "Animal Crossing: New Horizons is a life simulation game where players move to a deserted island and develop it into a thriving community over time. The game features real-time gameplay tied to the actual clock and calendar, crafting mechanics, and online multiplayer with friends."
+  },
+  {
+    "id": "game_015",
+    "title": "Red Dead Redemption 2",
+    "developer": "Rockstar Games",
+    "publisher": "Rockstar Games",
+    "release_date": "2018-10-26",
+    "platforms": ["PlayStation 4", "Xbox One", "PC", "Google Stadia"],
+    "genre": "Action-Adventure",
+    "description": "Red Dead Redemption 2 is an open-world Western action-adventure game and a prequel to Red Dead Redemption. Set in 1899, it follows outlaw Arthur Morgan and the Van der Linde gang as their way of life ends. The game is renowned for its detailed open world, realistic systems, and emotional storytelling."
+  },
+  {
+    "id": "game_016",
+    "title": "The Witcher 3: Wild Hunt",
+    "developer": "CD Projekt Red",
+    "publisher": "CD Projekt",
+    "release_date": "2015-05-19",
+    "platforms": ["PC", "PlayStation 4", "Xbox One", "Nintendo Switch", "PlayStation 5", "Xbox Series X/S"],
+    "genre": "Action RPG",
+    "description": "The Witcher 3: Wild Hunt is an action role-playing game following Geralt of Rivia, a monster hunter known as a witcher, as he searches for his adopted daughter Ciri across a fantasy world ravaged by war. The game features a massive open world, complex moral choices, and critically acclaimed expansions."
+  },
+  {
+    "id": "game_017",
+    "title": "Doom Eternal",
+    "developer": "id Software",
+    "publisher": "Bethesda Softworks",
+    "release_date": "2020-03-20",
+    "platforms": ["PC", "PlayStation 4", "Xbox One", "Nintendo Switch", "PlayStation 5", "Xbox Series X/S", "Google Stadia"],
+    "genre": "First-Person Shooter",
+    "description": "Doom Eternal is a fast-paced first-person shooter and sequel to Doom (2016). Players control the Doom Slayer battling demonic forces threatening Earth and other worlds. The game introduced aggressive resource management mechanics, forcing players to constantly move and fight to maintain health, ammo, and armor."
+  },
+  {
+    "id": "game_018",
+    "title": "Final Fantasy XVI",
+    "developer": "Square Enix Creative Business Unit III",
+    "publisher": "Square Enix",
+    "release_date": "2023-06-22",
+    "platforms": ["PlayStation 5", "PC"],
+    "genre": "Action RPG",
+    "description": "Final Fantasy XVI is an action role-playing game set in the world of Valisthea, where magical crystals called Mothercrystals provide civilization its power. The game follows Clive Rosfield as he seeks revenge against the Eikon Ifrit. It features a darker tone and real-time combat compared to previous entries in the series."
+  },
+  {
+    "id": "game_019",
+    "title": "Diablo IV",
+    "developer": "Blizzard Entertainment",
+    "publisher": "Blizzard Entertainment",
+    "release_date": "2023-06-06",
+    "platforms": ["PC", "PlayStation 5", "PlayStation 4", "Xbox Series X/S", "Xbox One"],
+    "genre": "Action RPG",
+    "description": "Diablo IV is an action role-playing game and the fourth main entry in the Diablo series. Set in the dark fantasy world of Sanctuary, players fight demons across five character classes: Barbarian, Sorcerer, Druid, Rogue, and Necromancer. The game features an open world, seasonal content, and a dark, gothic art style."
+  },
+  {
+    "id": "game_020",
+    "title": "Call of Duty: Modern Warfare II",
+    "developer": "Infinity Ward",
+    "publisher": "Activision",
+    "release_date": "2022-10-28",
+    "platforms": ["PC", "PlayStation 5", "PlayStation 4", "Xbox Series X/S", "Xbox One"],
+    "genre": "First-Person Shooter",
+    "description": "Call of Duty: Modern Warfare II is a first-person tactical shooter and the sequel to Modern Warfare (2019). It follows Task Force 141, including iconic characters like Captain Price and Ghost, as they pursue a Mexican cartel allied with a Iranian general. The game introduced new movement mechanics, DMZ extraction mode, and War Zone 2.0."
+  },
+  {
+    "id": "game_021",
+    "title": "Starfield",
+    "developer": "Bethesda Game Studios",
+    "publisher": "Bethesda Softworks",
+    "release_date": "2023-09-06",
+    "platforms": ["PC", "Xbox Series X/S"],
+    "genre": "Action RPG",
+    "description": "Starfield is an open-world action role-playing game and Bethesda Game Studios' first new IP in over 25 years. Set in the year 2330, players join Constellation, a group of space explorers, to search for mysterious artifacts across more than 1,000 planets. The game features character creation, base building, and ship customization."
+  },
+  {
+    "id": "game_022",
+    "title": "Hogwarts Legacy",
+    "developer": "Avalanche Software",
+    "publisher": "Warner Bros. Games",
+    "release_date": "2023-02-10",
+    "platforms": ["PC", "PlayStation 5", "PlayStation 4", "Xbox Series X/S", "Xbox One", "Nintendo Switch"],
+    "genre": "Action RPG",
+    "description": "Hogwarts Legacy is an open-world action role-playing game set in the wizarding world of Harry Potter during the late 1800s. Players attend Hogwarts School of Witchcraft and Wizardry and uncover an ancient secret threatening the magical world. It features spell combat, potion brewing, magical creature care, and house selection."
+  },
+  {
+    "id": "game_023",
+    "title": "The Last of Us Part I",
+    "developer": "Naughty Dog",
+    "publisher": "Sony Interactive Entertainment",
+    "release_date": "2022-09-02",
+    "platforms": ["PlayStation 5", "PC"],
+    "genre": "Action-Adventure",
+    "description": "The Last of Us Part I is a rebuilt version of the original 2013 game for PlayStation 5. It follows Joel, a hardened survivor, escorting Ellie, a teenage girl immune to a fungal infection, across a post-pandemic United States. The game features overhauled visuals, gameplay, and accessibility features."
+  },
+  {
+    "id": "game_024",
+    "title": "Baldur's Gate 3",
+    "developer": "Larian Studios",
+    "publisher": "Larian Studios",
+    "release_date": "2023-08-03",
+    "platforms": ["PC", "PlayStation 5", "Xbox Series X/S"],
+    "genre": "Role-Playing Game (RPG)",
+    "description": "Baldur's Gate 3 is a role-playing game based on the Dungeons & Dragons 5th edition ruleset. Set in the Forgotten Realms, players and companions infected with a mind flayer parasite must find a cure while navigating a world threatened by the Absolute cult. The game features extensive branching narratives, co-op multiplayer, and deep character customization."
+  },
+  {
+    "id": "game_025",
+    "title": "Overwatch 2",
+    "developer": "Blizzard Entertainment",
+    "publisher": "Blizzard Entertainment",
+    "release_date": "2022-10-04",
+    "platforms": ["PC", "PlayStation 5", "PlayStation 4", "Xbox Series X/S", "Xbox One", "Nintendo Switch"],
+    "genre": "Hero Shooter",
+    "description": "Overwatch 2 is a free-to-play hero shooter and the sequel to the original Overwatch. It replaced the original game with a new 5v5 format, new heroes, new maps, and a seasonal content model with a battle pass. The game features Push mode alongside existing game types and continues the narrative through PvE story missions."
+  }
+]
