@@ -1,6 +1,5 @@
 from typing import List
 import json as _json
-import pdfplumber
 from lib.documents import Corpus, Document
 
 
@@ -29,6 +28,7 @@ class PDFLoader:
         self.pdf_path = pdf_path
 
     def load(self) -> Document:
+        import pdfplumber
         corpus = Corpus()
 
         with pdfplumber.open(self.pdf_path) as pdf:
