@@ -3,13 +3,24 @@ UdaPlay environment setup — run this once before the notebooks.
 
     python init.py
 
-Installs the required dependencies and verifies the environment is ready.
+Installs required dependencies and verifies the environment is ready.
 """
 
 import subprocess
 import sys
 import os
 
+# ── Step 1: fix SQLite3 BEFORE importing chromadb ───────────────────────────
+# Udacity workspaces ship with SQLite3 < 3.35.0; ChromaDB requires >= 3.35.0.
+# pysqlite3-binary bundles a modern SQLite3 as a self-contained wheel.
+subprocess.check_call(
+    [sys.executable, "-m", "pip", "install", "--quiet", "pysqlite3-binary"],
+    stdout=subprocess.DEVNULL,
+)
+import pysqlite3
+sys.modules["sqlite3"] = pysqlite3
+
+# ── Step 2: install the 5 required project packages ─────────────────────────
 PACKAGES = [
     "chromadb>=1.0.4",
     "openai>=1.73.0",
