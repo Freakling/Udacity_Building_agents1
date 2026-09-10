@@ -5,7 +5,14 @@
     "developer": "EA Sports",
     "publisher": "Electronic Arts",
     "release_date": "2020-10-09",
-    "platforms": ["PlayStation 4", "Xbox One", "PC", "Nintendo Switch", "PlayStation 5", "Xbox Series X/S"],
+    "platforms": [
+      "PlayStation 4",
+      "Xbox One",
+      "PC",
+      "Nintendo Switch",
+      "PlayStation 5",
+      "Xbox Series X/S"
+    ],
     "genre": "Sports",
     "description": "FIFA 21 is a football simulation video game published by Electronic Arts under the EA Sports label. It features various improvements including faster gameplay, enhanced FUT co-op mode, Volta Football updates, and improved career mode with interactive match simulation."
   },
@@ -15,7 +22,10 @@
     "developer": "Santa Monica Studio",
     "publisher": "Sony Interactive Entertainment",
     "release_date": "2022-11-09",
-    "platforms": ["PlayStation 5", "PlayStation 4"],
+    "platforms": [
+      "PlayStation 5",
+      "PlayStation 4"
+    ],
     "genre": "Action-Adventure",
     "description": "God of War Ragnarok is an action-adventure game and the ninth installment in the God of War series. Set in Norse mythology, it follows Kratos and his son Atreus as they prepare for Ragnarok while facing new threats from Asgard, including Thor and eventually Odin himself."
   },
@@ -25,7 +35,9 @@
     "developer": "Game Freak",
     "publisher": "Nintendo",
     "release_date": "1996-02-27",
-    "platforms": ["Game Boy"],
+    "platforms": [
+      "Game Boy"
+    ],
     "genre": "Role-Playing Game (RPG)",
     "description": "Pokemon Red is a role-playing game developed by Game Freak and published by Nintendo for the Game Boy. It was the first entry in the Pokemon main series, allowing players to catch, train, and battle creatures called Pokemon. The game launched simultaneously with Pokemon Blue in Japan, and with Pokemon Blue and Yellow in other regions."
   },
@@ -35,7 +47,15 @@
     "developer": "Rockstar North",
     "publisher": "Rockstar Games",
     "release_date": "2013-09-17",
-    "platforms": ["PlayStation 3", "Xbox 360", "PlayStation 4", "Xbox One", "PC", "PlayStation 5", "Xbox Series X/S"],
+    "platforms": [
+      "PlayStation 3",
+      "Xbox 360",
+      "PlayStation 4",
+      "Xbox One",
+      "PC",
+      "PlayStation 5",
+      "Xbox Series X/S"
+    ],
     "genre": "Action-Adventure",
     "description": "Grand Theft Auto V is an open-world action-adventure game set in the fictional state of San Andreas. It follows three protagonists: Michael, Trevor, and Franklin, as they plan heists while under pressure from government agencies. The game features GTA Online, a persistent online multiplayer world."
   },
@@ -45,7 +65,10 @@
     "developer": "Nintendo EPD",
     "publisher": "Nintendo",
     "release_date": "2017-03-03",
-    "platforms": ["Nintendo Switch", "Wii U"],
+    "platforms": [
+      "Nintendo Switch",
+      "Wii U"
+    ],
     "genre": "Action-Adventure",
     "description": "The Legend of Zelda: Breath of the Wild is an open-world action-adventure game in which Link awakens after 100 years of slumber to defeat Calamity Ganon. It features a massive open world, physics-based puzzle solving, and a non-linear approach to exploration and progression."
   },
@@ -55,7 +78,16 @@
     "developer": "Mojang Studios",
     "publisher": "Mojang Studios",
     "release_date": "2011-11-18",
-    "platforms": ["PC", "PlayStation 4", "Xbox One", "Nintendo Switch", "iOS", "Android", "PlayStation 3", "Xbox 360"],
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "Xbox One",
+      "Nintendo Switch",
+      "iOS",
+      "Android",
+      "PlayStation 3",
+      "Xbox 360"
+    ],
     "genre": "Sandbox / Survival",
     "description": "Minecraft is a sandbox video game where players explore blocky, procedurally generated worlds and build constructions from various textured cubes. It features survival gameplay, creative mode, and multiplayer. Originally created by Markus 'Notch' Persson, the game was later developed by Mojang and sold to Microsoft in 2014."
   },
@@ -65,7 +97,13 @@
     "developer": "FromSoftware",
     "publisher": "Bandai Namco Entertainment",
     "release_date": "2022-02-25",
-    "platforms": ["PlayStation 5", "PlayStation 4", "Xbox Series X/S", "Xbox One", "PC"],
+    "platforms": [
+      "PlayStation 5",
+      "PlayStation 4",
+      "Xbox Series X/S",
+      "Xbox One",
+      "PC"
+    ],
     "genre": "Action RPG",
     "description": "Elden Ring is an action role-playing game developed by FromSoftware in collaboration with author George R. R. Martin, who created the game's world mythology. Set in the Lands Between, players explore an open world as a Tarnished seeking to restore the Elden Ring and become Elden Lord."
   },
@@ -75,7 +113,14 @@
     "developer": "CD Projekt Red",
     "publisher": "CD Projekt",
     "release_date": "2020-12-10",
-    "platforms": ["PC", "PlayStation 4", "Xbox One", "PlayStation 5", "Xbox Series X/S", "Google Stadia"],
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "Xbox One",
+      "PlayStation 5",
+      "Xbox Series X/S",
+      "Google Stadia"
+    ],
     "genre": "Action RPG",
     "description": "Cyberpunk 2077 is an open-world action role-playing game set in Night City, a megalopolis obsessed with power, glamour, and body modification. Players take on the role of V, a mercenary outlaw, and must work with Johnny Silverhand (played by Keanu Reeves) to find a way to survive a rogue biochip implanted in their brain."
   },
@@ -85,7 +130,11 @@
     "developer": "343 Industries",
     "publisher": "Xbox Game Studios",
     "release_date": "2021-12-08",
-    "platforms": ["Xbox Series X/S", "Xbox One", "PC"],
+    "platforms": [
+      "Xbox Series X/S",
+      "Xbox One",
+      "PC"
+    ],
     "genre": "First-Person Shooter",
     "description": "Halo Infinite is a first-person shooter developed by 343 Industries and the sixth main entry in the Halo series. It features Master Chief on a Zeta Halo ring after a devastating attack by the Banished. The game introduced an open-world campaign and a free-to-play multiplayer component."
   },
@@ -95,7 +144,16 @@
     "developer": "Epic Games",
     "publisher": "Epic Games",
     "release_date": "2017-07-21",
-    "platforms": ["PC", "PlayStation 4", "Xbox One", "Nintendo Switch", "iOS", "Android", "PlayStation 5", "Xbox Series X/S"],
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "Xbox One",
+      "Nintendo Switch",
+      "iOS",
+      "Android",
+      "PlayStation 5",
+      "Xbox Series X/S"
+    ],
     "genre": "Battle Royale",
     "description": "Fortnite is a battle royale game where 100 players compete to be the last person or team standing. It features a unique building mechanic and a vibrant art style. The game is regularly updated with new seasons, crossover events with popular IPs, and a live service model with a free-to-play cosmetics store."
   },
@@ -105,7 +163,11 @@
     "developer": "Insomniac Games",
     "publisher": "Sony Interactive Entertainment",
     "release_date": "2020-11-12",
-    "platforms": ["PlayStation 5", "PlayStation 4", "PC"],
+    "platforms": [
+      "PlayStation 5",
+      "PlayStation 4",
+      "PC"
+    ],
     "genre": "Action-Adventure",
     "description": "Marvel's Spider-Man: Miles Morales is an action-adventure game following Miles Morales as he navigates New York City while learning to be a new Spider-Man. It features expanded bio-electric venom powers and camouflage abilities unique to Miles, as he faces Roxxon Energy Corporation and the Underground."
   },
@@ -115,7 +177,14 @@
     "developer": "Ubisoft Montreal",
     "publisher": "Ubisoft",
     "release_date": "2020-11-10",
-    "platforms": ["PlayStation 5", "PlayStation 4", "Xbox Series X/S", "Xbox One", "PC", "Google Stadia"],
+    "platforms": [
+      "PlayStation 5",
+      "PlayStation 4",
+      "Xbox Series X/S",
+      "Xbox One",
+      "PC",
+      "Google Stadia"
+    ],
     "genre": "Action RPG",
     "description": "Assassin's Creed Valhalla is set in the 9th century and follows Eivor Varinsdottir, a Viking raider who leads their clan from Norway to England. Players build and expand a Viking settlement while engaging in raids, building alliances, and uncovering the mystery of a hidden organization called the Order of the Ancients."
   },
@@ -125,7 +194,16 @@
     "developer": "InnerSloth",
     "publisher": "InnerSloth",
     "release_date": "2018-06-15",
-    "platforms": ["PC", "iOS", "Android", "Nintendo Switch", "PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X/S"],
+    "platforms": [
+      "PC",
+      "iOS",
+      "Android",
+      "Nintendo Switch",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox One",
+      "Xbox Series X/S"
+    ],
     "genre": "Social Deduction",
     "description": "Among Us is a multiplayer social deduction game set in a space-themed setting. Players work together to maintain a spaceship while impostors among the crew attempt to sabotage the mission and eliminate crewmates. The game gained massive popularity during the COVID-19 pandemic in 2020."
   },
@@ -135,7 +213,9 @@
     "developer": "Nintendo EPD",
     "publisher": "Nintendo",
     "release_date": "2020-03-20",
-    "platforms": ["Nintendo Switch"],
+    "platforms": [
+      "Nintendo Switch"
+    ],
     "genre": "Life Simulation",
     "description": "Animal Crossing: New Horizons is a life simulation game where players move to a deserted island and develop it into a thriving community over time. The game features real-time gameplay tied to the actual clock and calendar, crafting mechanics, and online multiplayer with friends."
   },
@@ -145,7 +225,12 @@
     "developer": "Rockstar Games",
     "publisher": "Rockstar Games",
     "release_date": "2018-10-26",
-    "platforms": ["PlayStation 4", "Xbox One", "PC", "Google Stadia"],
+    "platforms": [
+      "PlayStation 4",
+      "Xbox One",
+      "PC",
+      "Google Stadia"
+    ],
     "genre": "Action-Adventure",
     "description": "Red Dead Redemption 2 is an open-world Western action-adventure game and a prequel to Red Dead Redemption. Set in 1899, it follows outlaw Arthur Morgan and the Van der Linde gang as their way of life ends. The game is renowned for its detailed open world, realistic systems, and emotional storytelling."
   },
@@ -155,7 +240,14 @@
     "developer": "CD Projekt Red",
     "publisher": "CD Projekt",
     "release_date": "2015-05-19",
-    "platforms": ["PC", "PlayStation 4", "Xbox One", "Nintendo Switch", "PlayStation 5", "Xbox Series X/S"],
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "Xbox One",
+      "Nintendo Switch",
+      "PlayStation 5",
+      "Xbox Series X/S"
+    ],
     "genre": "Action RPG",
     "description": "The Witcher 3: Wild Hunt is an action role-playing game following Geralt of Rivia, a monster hunter known as a witcher, as he searches for his adopted daughter Ciri across a fantasy world ravaged by war. The game features a massive open world, complex moral choices, and critically acclaimed expansions."
   },
@@ -165,7 +257,15 @@
     "developer": "id Software",
     "publisher": "Bethesda Softworks",
     "release_date": "2020-03-20",
-    "platforms": ["PC", "PlayStation 4", "Xbox One", "Nintendo Switch", "PlayStation 5", "Xbox Series X/S", "Google Stadia"],
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "Xbox One",
+      "Nintendo Switch",
+      "PlayStation 5",
+      "Xbox Series X/S",
+      "Google Stadia"
+    ],
     "genre": "First-Person Shooter",
     "description": "Doom Eternal is a fast-paced first-person shooter and sequel to Doom (2016). Players control the Doom Slayer battling demonic forces threatening Earth and other worlds. The game introduced aggressive resource management mechanics, forcing players to constantly move and fight to maintain health, ammo, and armor."
   },
@@ -175,7 +275,10 @@
     "developer": "Square Enix Creative Business Unit III",
     "publisher": "Square Enix",
     "release_date": "2023-06-22",
-    "platforms": ["PlayStation 5", "PC"],
+    "platforms": [
+      "PlayStation 5",
+      "PC"
+    ],
     "genre": "Action RPG",
     "description": "Final Fantasy XVI is an action role-playing game set in the world of Valisthea, where magical crystals called Mothercrystals provide civilization its power. The game follows Clive Rosfield as he seeks revenge against the Eikon Ifrit. It features a darker tone and real-time combat compared to previous entries in the series."
   },
@@ -185,7 +288,13 @@
     "developer": "Blizzard Entertainment",
     "publisher": "Blizzard Entertainment",
     "release_date": "2023-06-06",
-    "platforms": ["PC", "PlayStation 5", "PlayStation 4", "Xbox Series X/S", "Xbox One"],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "PlayStation 4",
+      "Xbox Series X/S",
+      "Xbox One"
+    ],
     "genre": "Action RPG",
     "description": "Diablo IV is an action role-playing game and the fourth main entry in the Diablo series. Set in the dark fantasy world of Sanctuary, players fight demons across five character classes: Barbarian, Sorcerer, Druid, Rogue, and Necromancer. The game features an open world, seasonal content, and a dark, gothic art style."
   },
@@ -195,7 +304,13 @@
     "developer": "Infinity Ward",
     "publisher": "Activision",
     "release_date": "2022-10-28",
-    "platforms": ["PC", "PlayStation 5", "PlayStation 4", "Xbox Series X/S", "Xbox One"],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "PlayStation 4",
+      "Xbox Series X/S",
+      "Xbox One"
+    ],
     "genre": "First-Person Shooter",
     "description": "Call of Duty: Modern Warfare II is a first-person tactical shooter and the sequel to Modern Warfare (2019). It follows Task Force 141, including iconic characters like Captain Price and Ghost, as they pursue a Mexican cartel allied with a Iranian general. The game introduced new movement mechanics, DMZ extraction mode, and War Zone 2.0."
   },
@@ -205,7 +320,10 @@
     "developer": "Bethesda Game Studios",
     "publisher": "Bethesda Softworks",
     "release_date": "2023-09-06",
-    "platforms": ["PC", "Xbox Series X/S"],
+    "platforms": [
+      "PC",
+      "Xbox Series X/S"
+    ],
     "genre": "Action RPG",
     "description": "Starfield is an open-world action role-playing game and Bethesda Game Studios' first new IP in over 25 years. Set in the year 2330, players join Constellation, a group of space explorers, to search for mysterious artifacts across more than 1,000 planets. The game features character creation, base building, and ship customization."
   },
@@ -215,7 +333,14 @@
     "developer": "Avalanche Software",
     "publisher": "Warner Bros. Games",
     "release_date": "2023-02-10",
-    "platforms": ["PC", "PlayStation 5", "PlayStation 4", "Xbox Series X/S", "Xbox One", "Nintendo Switch"],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "PlayStation 4",
+      "Xbox Series X/S",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
     "genre": "Action RPG",
     "description": "Hogwarts Legacy is an open-world action role-playing game set in the wizarding world of Harry Potter during the late 1800s. Players attend Hogwarts School of Witchcraft and Wizardry and uncover an ancient secret threatening the magical world. It features spell combat, potion brewing, magical creature care, and house selection."
   },
@@ -225,7 +350,10 @@
     "developer": "Naughty Dog",
     "publisher": "Sony Interactive Entertainment",
     "release_date": "2022-09-02",
-    "platforms": ["PlayStation 5", "PC"],
+    "platforms": [
+      "PlayStation 5",
+      "PC"
+    ],
     "genre": "Action-Adventure",
     "description": "The Last of Us Part I is a rebuilt version of the original 2013 game for PlayStation 5. It follows Joel, a hardened survivor, escorting Ellie, a teenage girl immune to a fungal infection, across a post-pandemic United States. The game features overhauled visuals, gameplay, and accessibility features."
   },
@@ -235,7 +363,11 @@
     "developer": "Larian Studios",
     "publisher": "Larian Studios",
     "release_date": "2023-08-03",
-    "platforms": ["PC", "PlayStation 5", "Xbox Series X/S"],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series X/S"
+    ],
     "genre": "Role-Playing Game (RPG)",
     "description": "Baldur's Gate 3 is a role-playing game based on the Dungeons & Dragons 5th edition ruleset. Set in the Forgotten Realms, players and companions infected with a mind flayer parasite must find a cure while navigating a world threatened by the Absolute cult. The game features extensive branching narratives, co-op multiplayer, and deep character customization."
   },
@@ -245,8 +377,2791 @@
     "developer": "Blizzard Entertainment",
     "publisher": "Blizzard Entertainment",
     "release_date": "2022-10-04",
-    "platforms": ["PC", "PlayStation 5", "PlayStation 4", "Xbox Series X/S", "Xbox One", "Nintendo Switch"],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "PlayStation 4",
+      "Xbox Series X/S",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
     "genre": "Hero Shooter",
     "description": "Overwatch 2 is a free-to-play hero shooter and the sequel to the original Overwatch. It replaced the original game with a new 5v5 format, new heroes, new maps, and a seasonal content model with a battle pass. The game features Push mode alongside existing game types and continues the narrative through PvE story missions."
+  },
+  {
+    "id": "game_026",
+    "title": "Tetris",
+    "developer": "Alexey Pajitnov / Nintendo R&D1",
+    "publisher": "Nintendo",
+    "release_date": "1989-06-14",
+    "platforms": [
+      "Game Boy",
+      "NES",
+      "Arcade",
+      "Multi-platform"
+    ],
+    "genre": "Puzzle",
+    "description": "Tetris is the quintessential tile-matching puzzle game where falling tetrominoes must be arranged to complete horizontal lines without gaps. Originally designed by Soviet software engineer Alexey Pajitnov in 1984, the Game Boy version became one of the best-selling games ever, bundled with over 30 million units. Its simple rules and infinite replayability made it a cultural touchstone across every gaming era."
+  },
+  {
+    "id": "game_027",
+    "title": "Wii Sports",
+    "developer": "Nintendo EAD",
+    "publisher": "Nintendo",
+    "release_date": "2006-11-19",
+    "platforms": [
+      "Wii"
+    ],
+    "genre": "Sports",
+    "description": "Wii Sports is a sports simulation anthology bundled with the Nintendo Wii, featuring tennis, bowling, boxing, baseball, and golf. Motion controls via the Wii Remote made the game immediately accessible to non-gamers, driving massive mainstream adoption. It became the best-selling single-platform game of its era with over 82 million copies sold."
+  },
+  {
+    "id": "game_028",
+    "title": "Mario Kart 8 Deluxe",
+    "developer": "Nintendo EPD",
+    "publisher": "Nintendo",
+    "release_date": "2017-04-28",
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "genre": "Racing",
+    "description": "Mario Kart 8 Deluxe is an enhanced port of Mario Kart 8 featuring all DLC content, revamped battle mode, and new characters. Players race across 48 tracks using items and power-ups in a colorful cast of Nintendo characters. It is the best-selling Switch game with over 67 million copies sold."
+  },
+  {
+    "id": "game_029",
+    "title": "PUBG: Battlegrounds",
+    "developer": "PUBG Studios",
+    "publisher": "Krafton",
+    "release_date": "2017-12-20",
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "PlayStation 4",
+      "Nintendo Switch",
+      "iOS",
+      "Android"
+    ],
+    "genre": "Battle Royale",
+    "description": "PUBG: Battlegrounds pioneered the modern battle royale genre, dropping 100 players onto an island to scavenge weapons and fight until one player or team survives. Its realistic gunplay and large-scale maps set the template for the genre. The game sold over 75 million copies and peaked at 3.2 million concurrent players on Steam."
+  },
+  {
+    "id": "game_030",
+    "title": "Terraria",
+    "developer": "Re-Logic",
+    "publisher": "Re-Logic",
+    "release_date": "2011-05-16",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "Xbox One",
+      "Nintendo Switch",
+      "iOS",
+      "Android",
+      "PlayStation 3",
+      "Xbox 360"
+    ],
+    "genre": "Action-Adventure / Sandbox",
+    "description": "Terraria is a 2D sandbox action-adventure game where players explore a procedurally generated world, mine resources, build structures, and battle over 400 unique bosses. Despite its retro pixel art aesthetic, it offers enormous depth across exploration, crafting, and combat. Continuous free updates over 13 years have kept it one of Steam's all-time best-selling titles at over 58 million copies."
+  },
+  {
+    "id": "game_031",
+    "title": "The Elder Scrolls V: Skyrim",
+    "developer": "Bethesda Game Studios",
+    "publisher": "Bethesda Softworks",
+    "release_date": "2011-11-11",
+    "platforms": [
+      "PC",
+      "PlayStation 3",
+      "Xbox 360",
+      "PlayStation 4",
+      "Xbox One",
+      "Nintendo Switch",
+      "PlayStation 5",
+      "Xbox Series X/S"
+    ],
+    "genre": "Action RPG",
+    "description": "Skyrim places players in the frost-bitten Nordic province of Tamriel as the Dragonborn, prophesied to defeat the world-eating dragon Alduin. Its vast open world, hundreds of quests, and deeply moddable PC version made it a perennial bestseller re-released across nearly every platform. Over 30 million copies sold across its many editions."
+  },
+  {
+    "id": "game_032",
+    "title": "The Sims",
+    "developer": "Maxis",
+    "publisher": "Electronic Arts",
+    "release_date": "2000-02-04",
+    "platforms": [
+      "PC",
+      "Mac"
+    ],
+    "genre": "Life Simulation",
+    "description": "The Sims is a life simulation game where players create and control virtual people called Sims, managing their needs, relationships, careers, and homes. Designed by Will Wright, it became the best-selling PC game of its time and spawned one of gaming's most commercially successful franchises. Its open-ended gameplay with no win condition proved that games could appeal far beyond traditional gamers."
+  },
+  {
+    "id": "game_033",
+    "title": "Stardew Valley",
+    "developer": "ConcernedApe",
+    "publisher": "ConcernedApe",
+    "release_date": "2016-02-26",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "Xbox One",
+      "Nintendo Switch",
+      "iOS",
+      "Android",
+      "PlayStation Vita"
+    ],
+    "genre": "Farming Simulation / RPG",
+    "description": "Stardew Valley is a farming simulation RPG created entirely by solo developer Eric Barone. Players inherit a run-down farm and build it up while befriending townsfolk, mining for ore, and uncovering the valley's mysteries. It became one of indie gaming's greatest success stories, selling over 41 million copies."
+  },
+  {
+    "id": "game_034",
+    "title": "Overwatch",
+    "developer": "Blizzard Entertainment",
+    "publisher": "Blizzard Entertainment",
+    "release_date": "2016-05-24",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "genre": "Hero Shooter",
+    "description": "Overwatch is a team-based hero shooter featuring a diverse cast of 30+ heroes with unique abilities, competing in objective-based 6v6 matches. Its polished gameplay and inclusive character design made it a cultural phenomenon and mainstream esport. The game sold over 50 million copies before transitioning to the free-to-play Overwatch 2 model."
+  },
+  {
+    "id": "game_035",
+    "title": "Super Smash Bros. Ultimate",
+    "developer": "Bandai Namco Studios / Sora Ltd.",
+    "publisher": "Nintendo",
+    "release_date": "2018-12-07",
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "genre": "Fighting",
+    "description": "Super Smash Bros. Ultimate is a platform fighter and the most ambitious entry in the series, featuring every fighter from every previous Smash game plus major additions. Players compete to knock opponents off-stage using attacks and items across iconic Nintendo and third-party stages. With over 33 million copies sold, it is the best-selling fighting game of all time."
+  },
+  {
+    "id": "game_036",
+    "title": "Mario Kart Wii",
+    "developer": "Nintendo EAD",
+    "publisher": "Nintendo",
+    "release_date": "2008-04-10",
+    "platforms": [
+      "Wii"
+    ],
+    "genre": "Racing",
+    "description": "Mario Kart Wii introduced motion controls via the Wii Wheel accessory and featured 32 tracks with online multiplayer for up to 12 players. It included motorcycles alongside karts and added trick mechanics for additional speed boosts. Over 37 million copies were sold, making it one of Nintendo's best-selling games ever."
+  },
+  {
+    "id": "game_037",
+    "title": "Fallout 4",
+    "developer": "Bethesda Game Studios",
+    "publisher": "Bethesda Softworks",
+    "release_date": "2015-11-10",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "Xbox One",
+      "PlayStation 5",
+      "Xbox Series X/S"
+    ],
+    "genre": "Action RPG",
+    "description": "Fallout 4 is a post-apocalyptic action RPG set in the ruins of Boston in 2287, where the player emerges from a cryogenic vault to search for their missing son. It introduced base-building mechanics, a voiced protagonist, and an extensive settlement system alongside traditional Fallout exploration and combat. The game sold over 15 million copies in its first year."
+  },
+  {
+    "id": "game_038",
+    "title": "Borderlands 2",
+    "developer": "Gearbox Software",
+    "publisher": "2K Games",
+    "release_date": "2012-09-18",
+    "platforms": [
+      "PC",
+      "PlayStation 3",
+      "Xbox 360",
+      "PlayStation 4",
+      "Xbox One",
+      "Nintendo Switch",
+      "PlayStation Vita"
+    ],
+    "genre": "Action RPG / Looter Shooter",
+    "description": "Borderlands 2 is a first-person looter-shooter RPG set on the planet Pandora, featuring billions of procedurally generated guns and four-player co-op. Players fight the charismatic villain Handsome Jack to unlock a mysterious Vault. Its blend of irreverent humor, compelling characters, and addictive loot loop made it a defining entry in the looter-shooter genre."
+  },
+  {
+    "id": "game_039",
+    "title": "Super Mario Odyssey",
+    "developer": "Nintendo EPD",
+    "publisher": "Nintendo",
+    "release_date": "2017-10-27",
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "genre": "Platformer",
+    "description": "Super Mario Odyssey is a 3D platformer where Mario travels across diverse kingdoms in his sentient hat Cappy, capturing enemies and objects to solve puzzles and collect Power Moons. It is celebrated for its creative level design, sandbox exploration, and the sheer joy of its movement system. The game sold over 27 million copies and earned near-universal critical acclaim."
+  },
+  {
+    "id": "game_040",
+    "title": "Monster Hunter: World",
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "release_date": "2018-01-26",
+    "platforms": [
+      "PlayStation 4",
+      "Xbox One",
+      "PC"
+    ],
+    "genre": "Action RPG",
+    "description": "Monster Hunter: World is the series' breakthrough global hit, where players hunt increasingly powerful monsters across a seamless living ecosystem. The game removed loading zones between areas, added ecological systems for monster behavior, and introduced crossover events with other franchises. It became Capcom's best-selling game ever with over 21 million copies shipped."
+  },
+  {
+    "id": "game_041",
+    "title": "Call of Duty: Black Ops Cold War",
+    "developer": "Treyarch / Raven Software",
+    "publisher": "Activision",
+    "release_date": "2020-11-13",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox One",
+      "Xbox Series X/S"
+    ],
+    "genre": "First-Person Shooter",
+    "description": "Black Ops Cold War is set during the early 1980s Cold War era, pitting players against Soviet intelligence operative Perseus in a globe-spanning campaign. It features branching narrative choices and multiple endings, alongside a remastered Zombies mode and multiplayer maps. The game was the best-selling title in the US for 2020."
+  },
+  {
+    "id": "game_042",
+    "title": "Call of Duty: Black Ops",
+    "developer": "Treyarch",
+    "publisher": "Activision",
+    "release_date": "2010-11-09",
+    "platforms": [
+      "PC",
+      "PlayStation 3",
+      "Xbox 360",
+      "Wii",
+      "Nintendo DS"
+    ],
+    "genre": "First-Person Shooter",
+    "description": "Call of Duty: Black Ops follows a CIA operative through Cold War-era missions in Cuba, Vietnam, and the Soviet Union via a non-linear narrative told through interrogation sessions. It introduced the iconic Zombies mode to Black Ops and set records as the fastest-selling entertainment product at launch. The game sold over 30 million copies."
+  },
+  {
+    "id": "game_043",
+    "title": "Call of Duty: Modern Warfare (2019)",
+    "developer": "Infinity Ward",
+    "publisher": "Activision",
+    "release_date": "2019-10-25",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "Xbox One"
+    ],
+    "genre": "First-Person Shooter",
+    "description": "The 2019 Modern Warfare reboot returned to the franchise's roots with a gritty, realistic military campaign following CIA officer Alex and British SAS Captain Price. It introduced Warzone, a free-to-play battle royale that attracted over 100 million players. The game's gunplay overhaul and Warzone integration set the template for the next generation of Call of Duty."
+  },
+  {
+    "id": "game_044",
+    "title": "Call of Duty: Modern Warfare 3",
+    "developer": "Infinity Ward / Sledgehammer Games",
+    "publisher": "Activision",
+    "release_date": "2011-11-08",
+    "platforms": [
+      "PC",
+      "PlayStation 3",
+      "Xbox 360",
+      "Wii",
+      "Nintendo DS"
+    ],
+    "genre": "First-Person Shooter",
+    "description": "Modern Warfare 3 concludes the trilogy's narrative with Task Force 141 racing to prevent a global war as Makarov launches coordinated attacks across Europe. The campaign spans multiple countries and culminates in a showdown with the franchise's most notorious villain. It set the entertainment industry's then-record for five-day sales at $775 million."
+  },
+  {
+    "id": "game_045",
+    "title": "Grand Theft Auto IV",
+    "developer": "Rockstar North",
+    "publisher": "Rockstar Games",
+    "release_date": "2008-04-29",
+    "platforms": [
+      "PC",
+      "PlayStation 3",
+      "Xbox 360"
+    ],
+    "genre": "Action-Adventure",
+    "description": "GTA IV follows Niko Bellic, a war veteran from Eastern Europe who immigrates to Liberty City (a fictional New York) pursuing the American Dream, only to be drawn into its criminal underworld. The game's serious tone, cinematic storytelling, and multiplayer were a significant departure from San Andreas. It received a perfect 10 from many publications and remains one of the highest-rated games ever made."
+  },
+  {
+    "id": "game_046",
+    "title": "Grand Theft Auto: San Andreas",
+    "developer": "Rockstar North",
+    "publisher": "Rockstar Games",
+    "release_date": "2004-10-26",
+    "platforms": [
+      "PlayStation 2",
+      "Xbox",
+      "PC",
+      "iOS",
+      "Android",
+      "Xbox 360",
+      "PlayStation 3"
+    ],
+    "genre": "Action-Adventure",
+    "description": "GTA San Andreas is a sprawling open-world crime epic following CJ returning to his Los Santos neighborhood after his mother's murder, uncovering a web of corruption across three cities. Its map was the largest in the series at the time, featuring gang wars, customizable characters, and dozens of side activities. It sold over 27 million copies on PS2 alone."
+  },
+  {
+    "id": "game_047",
+    "title": "Grand Theft Auto: Vice City",
+    "developer": "Rockstar North",
+    "publisher": "Rockstar Games",
+    "release_date": "2002-10-29",
+    "platforms": [
+      "PlayStation 2",
+      "Xbox",
+      "PC",
+      "iOS",
+      "Android"
+    ],
+    "genre": "Action-Adventure",
+    "description": "GTA Vice City is a crime narrative set in 1980s Miami, following mobster Tommy Vercetti as he builds a criminal empire after a drug deal goes wrong. Its neon-soaked aesthetic, iconic 80s soundtrack, and memorable characters made it one of the most beloved entries in the series. It sold over 17 million copies and cemented the franchise's cultural dominance."
+  },
+  {
+    "id": "game_048",
+    "title": "Grand Theft Auto III",
+    "developer": "DMA Design (Rockstar North)",
+    "publisher": "Rockstar Games",
+    "release_date": "2001-10-22",
+    "platforms": [
+      "PlayStation 2",
+      "Xbox",
+      "PC",
+      "iOS",
+      "Android"
+    ],
+    "genre": "Action-Adventure",
+    "description": "GTA III was the series' transition to 3D open-world gameplay, setting the template for the sandbox crime genre that would define a generation of games. Players control Claude, a silent protagonist betrayed by his girlfriend, as he climbs Liberty City's criminal hierarchy. Its commercial success and influence on open-world design made it one of gaming's most consequential releases."
+  },
+  {
+    "id": "game_049",
+    "title": "Pokemon Gold and Silver",
+    "developer": "Game Freak",
+    "publisher": "Nintendo / The Pokemon Company",
+    "release_date": "1999-11-21",
+    "platforms": [
+      "Game Boy Color"
+    ],
+    "genre": "Role-Playing Game",
+    "description": "Pokemon Gold and Silver are the second generation of Pokemon games, introducing 100 new species, day/night cycles, and the new Johto region. Upon completion, players could return to the original Kanto region from Red and Blue, effectively doubling the game's content. They sold over 23 million copies and are widely regarded as some of the finest games in the series."
+  },
+  {
+    "id": "game_050",
+    "title": "Pokemon Diamond and Pearl",
+    "developer": "Game Freak",
+    "publisher": "Nintendo / The Pokemon Company",
+    "release_date": "2007-04-22",
+    "platforms": [
+      "Nintendo DS"
+    ],
+    "genre": "Role-Playing Game",
+    "description": "Pokemon Diamond and Pearl introduced the fourth generation of Pokemon to the Nintendo DS, featuring the Sinnoh region and 107 new species. The games added the physical/special attack split and online trading and battles via the Nintendo Wi-Fi Connection. They sold over 17 million copies combined."
+  },
+  {
+    "id": "game_051",
+    "title": "Pokemon Sword and Shield",
+    "developer": "Game Freak",
+    "publisher": "Nintendo / The Pokemon Company",
+    "release_date": "2019-11-15",
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "genre": "Role-Playing Game",
+    "description": "Pokemon Sword and Shield brought the mainline series to Nintendo Switch for the first time, set in the UK-inspired Galar region with 81 new Pokemon. The Wild Area introduced an open-world section with dynamically changing weather and Max Raid Battles. The games sold over 25 million copies despite controversy around the limited National Dex."
+  },
+  {
+    "id": "game_052",
+    "title": "Pokemon Scarlet and Violet",
+    "developer": "Game Freak",
+    "publisher": "Nintendo / The Pokemon Company",
+    "release_date": "2022-11-18",
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "genre": "Role-Playing Game",
+    "description": "Pokemon Scarlet and Violet introduced a fully open-world structure for the first time in the mainline series, set in the Spain-inspired Paldea region with 103 new Pokemon. Three concurrent storylines let players tackle gyms, Team Star bases, and Titan Pokemon in any order. Despite a rocky technical launch, the games sold over 23 million copies."
+  },
+  {
+    "id": "game_053",
+    "title": "Black Myth: Wukong",
+    "developer": "Game Science",
+    "publisher": "Game Science",
+    "release_date": "2024-08-20",
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series X/S"
+    ],
+    "genre": "Action RPG",
+    "description": "Black Myth: Wukong is an action RPG based on the classic Chinese novel Journey to the West, following the Destined One retracing Sun Wukong's legendary journey. With stunning Unreal Engine 5 visuals and demanding combat inspired by FromSoftware games, it became China's first globally acclaimed AAA title. It sold over 20 million copies in its first month, breaking multiple Steam records."
+  },
+  {
+    "id": "game_054",
+    "title": "It Takes Two",
+    "developer": "Hazelight Studios",
+    "publisher": "Electronic Arts",
+    "release_date": "2021-03-26",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox One",
+      "Xbox Series X/S",
+      "Nintendo Switch"
+    ],
+    "genre": "Action-Adventure / Co-op",
+    "description": "It Takes Two is a co-op only action-adventure following a couple on the brink of divorce who are magically transformed into dolls by their daughter's tears. Each level reinvents its gameplay mechanics completely, from platforming to third-person shooters to rhythm games. It won the Game of the Year award at The Game Awards 2021."
+  },
+  {
+    "id": "game_055",
+    "title": "Duck Hunt",
+    "developer": "Nintendo R&D1",
+    "publisher": "Nintendo",
+    "release_date": "1984-04-21",
+    "platforms": [
+      "NES",
+      "Arcade"
+    ],
+    "genre": "Light Gun Shooter",
+    "description": "Duck Hunt is a light gun shooter bundled with the NES and the Zapper peripheral, where players shoot ducks as they fly across the screen with a mocking dog companion retrieving them. Its simple but satisfying mechanics made it one of the most recognizable games of its era. The game sold over 28 million copies as part of the NES bundle."
+  },
+  {
+    "id": "game_056",
+    "title": "Sonic the Hedgehog",
+    "developer": "Sonic Team (Sega)",
+    "publisher": "Sega",
+    "release_date": "1991-06-23",
+    "platforms": [
+      "Sega Genesis",
+      "Game Gear",
+      "Master System",
+      "Multi-platform"
+    ],
+    "genre": "Platformer",
+    "description": "Sonic the Hedgehog introduced Sega's mascot as a direct competitor to Nintendo's Mario, built around high-speed platforming physics and attitude. The game's emphasis on momentum and speed was a technical showcase for the Genesis hardware. Sonic became one of gaming's most recognizable characters, and the series has sold over 140 million games worldwide."
+  },
+  {
+    "id": "game_057",
+    "title": "Super Mario Bros.",
+    "developer": "Nintendo R&D4",
+    "publisher": "Nintendo",
+    "release_date": "1985-09-13",
+    "platforms": [
+      "NES",
+      "Game Boy Advance",
+      "Wii",
+      "3DS",
+      "Switch",
+      "Multi-platform"
+    ],
+    "genre": "Platformer",
+    "description": "Super Mario Bros. is the foundational platformer that codified the side-scrolling genre and saved the North American video game industry after the 1983 crash. Players guide Mario through eight worlds to rescue Princess Peach from Bowser. With over 40 million NES copies sold, it remains one of the most influential games in history."
+  },
+  {
+    "id": "game_058",
+    "title": "New Super Mario Bros.",
+    "developer": "Nintendo EAD",
+    "publisher": "Nintendo",
+    "release_date": "2006-05-15",
+    "platforms": [
+      "Nintendo DS"
+    ],
+    "genre": "Platformer",
+    "description": "New Super Mario Bros. revived the classic 2D Mario formula for the Nintendo DS generation, blending nostalgia with new mechanics like mega and mini mushrooms. Its co-op multiplayer and clean execution made it an immediate hit. The game sold over 30 million copies, becoming the best-selling Nintendo DS game."
+  },
+  {
+    "id": "game_059",
+    "title": "Human: Fall Flat",
+    "developer": "No Brakes Games",
+    "publisher": "Curve Digital",
+    "release_date": "2016-07-22",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "Xbox One",
+      "Nintendo Switch",
+      "iOS",
+      "Android"
+    ],
+    "genre": "Puzzle-Platformer",
+    "description": "Human: Fall Flat is a wobbly physics-based puzzle platformer where players control a customizable human with full arm control, solving surreal puzzles in dreamlike environments. Its accessible controls and emergent comedy from the physics engine made it ideal for co-op play. The game has sold over 40 million copies across all platforms."
+  },
+  {
+    "id": "game_060",
+    "title": "Garry's Mod",
+    "developer": "Facepunch Studios",
+    "publisher": "Valve",
+    "release_date": "2006-11-29",
+    "platforms": [
+      "PC"
+    ],
+    "genre": "Sandbox",
+    "description": "Garry's Mod is a physics sandbox with no preset objectives where players manipulate objects, create contraptions, and build with assets from Valve's Source engine games. The game spawned countless community-created game modes including Trouble in Terrorist Town and Prop Hunt. It has sold over 20 million copies and remains one of Steam's most enduringly active communities."
+  },
+  {
+    "id": "game_061",
+    "title": "Payday 2",
+    "developer": "Overkill Software",
+    "publisher": "505 Games",
+    "release_date": "2013-08-13",
+    "platforms": [
+      "PC",
+      "PlayStation 3",
+      "Xbox 360",
+      "PlayStation 4",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "genre": "Co-op Action / Heist Shooter",
+    "description": "Payday 2 is a co-operative first-person heist shooter where up to four players plan and execute bank robberies, store heists, and other criminal operations. Its deep customization system and constant content updates kept a dedicated playerbase for over a decade. The game sold over 30 million copies and was briefly the most played game on Steam."
+  },
+  {
+    "id": "game_062",
+    "title": "Wii Sports Resort",
+    "developer": "Nintendo EAD",
+    "publisher": "Nintendo",
+    "release_date": "2009-07-26",
+    "platforms": [
+      "Wii"
+    ],
+    "genre": "Sports",
+    "description": "Wii Sports Resort is the sequel to Wii Sports, set on the tropical Wuhu Island with 12 sports including swordplay, archery, and basketball. It introduced the MotionPlus accessory for more precise motion controls. The game sold over 33 million copies and remains one of the best-selling Wii titles."
+  },
+  {
+    "id": "game_063",
+    "title": "Phasmophobia",
+    "developer": "Kinetic Games",
+    "publisher": "Kinetic Games",
+    "release_date": "2022-12-09",
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "PlayStation VR2",
+      "Xbox Series X/S"
+    ],
+    "genre": "Horror / Co-op Investigation",
+    "description": "Phasmophobia is a co-operative ghost-hunting horror game where players enter haunted locations to identify the type of ghost using paranormal equipment. Its use of voice recognition for ghost interaction and genuine tension from asymmetric information made it a viral hit. The early access game reached over 20 million players and a top-10 Steam concurrent peak."
+  },
+  {
+    "id": "game_064",
+    "title": "The Legend of Zelda: Ocarina of Time",
+    "developer": "Nintendo EAD",
+    "publisher": "Nintendo",
+    "release_date": "1998-11-21",
+    "platforms": [
+      "Nintendo 64",
+      "GameCube",
+      "Wii",
+      "3DS"
+    ],
+    "genre": "Action-Adventure",
+    "description": "Ocarina of Time is the first 3D entry in the Zelda series and one of the most critically acclaimed games ever made, holding Metacritic's highest score of 99. Link must travel through time to defeat Ganondorf in the land of Hyrule using the mystical Ocarina. Its Z-targeting combat system and lock-on mechanics became foundational to 3D action game design."
+  },
+  {
+    "id": "game_065",
+    "title": "The Legend of Zelda: A Link to the Past",
+    "developer": "Nintendo EAD",
+    "publisher": "Nintendo",
+    "release_date": "1991-11-21",
+    "platforms": [
+      "SNES",
+      "Game Boy Advance",
+      "Wii",
+      "3DS",
+      "Switch"
+    ],
+    "genre": "Action-Adventure",
+    "description": "A Link to the Past established the core Zelda formula: a dual-world structure between Light and Dark Worlds, dungeons with unique items, and a sprawling overworld. Link must collect the Triforce pieces to defeat Ganon and rescue the seven maidens. It is widely regarded as one of the greatest games ever made."
+  },
+  {
+    "id": "game_066",
+    "title": "The Legend of Zelda: The Wind Waker",
+    "developer": "Nintendo EAD",
+    "publisher": "Nintendo",
+    "release_date": "2002-12-13",
+    "platforms": [
+      "GameCube",
+      "Wii U"
+    ],
+    "genre": "Action-Adventure",
+    "description": "Wind Waker's cel-shaded art style was initially controversial but proved timeless, depicting an ocean-covered Hyrule centuries after Ocarina of Time. Link sails a vast sea searching for his kidnapped sister while uncovering the fate of the old kingdom. The HD Wii U version vindicated the original's artistic vision."
+  },
+  {
+    "id": "game_067",
+    "title": "The Legend of Zelda: Twilight Princess",
+    "developer": "Nintendo EAD",
+    "publisher": "Nintendo",
+    "release_date": "2006-11-19",
+    "platforms": [
+      "Wii",
+      "GameCube",
+      "Wii U"
+    ],
+    "genre": "Action-Adventure",
+    "description": "Twilight Princess presents a darker, more realistic Hyrule split between the light world and the shadow realm of Twilight. Link transforms into a wolf to fight alongside the twilight spirit Midna to defeat the usurper Zant and the dark lord Ganondorf. Its epic scale and serious tone were a deliberate response to fans who found Wind Waker too whimsical."
+  },
+  {
+    "id": "game_068",
+    "title": "The Legend of Zelda: Tears of the Kingdom",
+    "developer": "Nintendo EPD",
+    "publisher": "Nintendo",
+    "release_date": "2023-05-12",
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "genre": "Action-Adventure",
+    "description": "Tears of the Kingdom expands on Breath of the Wild by adding sky islands, an underground Depths region, and revolutionary building mechanics via the Ultrahand and Fuse abilities. Link must stop Ganondorf's ancient evil while uncovering the history of Hyrule through embedded memory sequences. It sold over 20 million copies in six weeks."
+  },
+  {
+    "id": "game_069",
+    "title": "The Legend of Zelda: Link's Awakening",
+    "developer": "Nintendo EAD",
+    "publisher": "Nintendo",
+    "release_date": "1993-06-06",
+    "platforms": [
+      "Game Boy",
+      "Game Boy Color",
+      "Nintendo Switch"
+    ],
+    "genre": "Action-Adventure",
+    "description": "Link's Awakening is a compact, dreamlike Zelda adventure set on the mysterious Koholint Island, where Link must awaken the Wind Fish to escape. The Switch remake in 2019 reimagined it with a distinctive toy-like diorama art style while preserving the original's design. Its introspective story and inventive dungeon puzzles make it one of the series' most beloved entries."
+  },
+  {
+    "id": "game_070",
+    "title": "Super Mario Galaxy",
+    "developer": "Nintendo EAD Tokyo",
+    "publisher": "Nintendo",
+    "release_date": "2007-11-01",
+    "platforms": [
+      "Wii",
+      "Nintendo Switch"
+    ],
+    "genre": "Platformer",
+    "description": "Super Mario Galaxy took 3D platforming into space, with Mario navigating spherical planetoids governed by inventive gravity physics. Its orchestral score and imaginative world design were universally praised, earning a 97 Metacritic score. The game sold over 12 million copies and is considered one of the greatest platformers ever made."
+  },
+  {
+    "id": "game_071",
+    "title": "Super Mario Galaxy 2",
+    "developer": "Nintendo EAD Tokyo",
+    "publisher": "Nintendo",
+    "release_date": "2010-05-23",
+    "platforms": [
+      "Wii",
+      "Nintendo Switch"
+    ],
+    "genre": "Platformer",
+    "description": "Super Mario Galaxy 2 refined its predecessor's formula with Yoshi as a rideable companion and over 240 stars across imaginative new galaxies. Many critics consider it even better than the original, with a 97 Metacritic score. The game is remarkable for being a direct sequel on the same console that matched or exceeded the original's quality."
+  },
+  {
+    "id": "game_072",
+    "title": "Super Mario 64",
+    "developer": "Nintendo EAD",
+    "publisher": "Nintendo",
+    "release_date": "1996-06-23",
+    "platforms": [
+      "Nintendo 64",
+      "Nintendo DS",
+      "Wii",
+      "3DS",
+      "Switch"
+    ],
+    "genre": "Platformer",
+    "description": "Super Mario 64 invented the 3D platformer genre as we know it, introducing analog movement, a free-roaming camera, and collect-a-thon star objectives across diverse themed worlds. Its transition of the Mario franchise from 2D to 3D was seamless and set design principles still in use today. The N64 launch title sold over 11 million copies."
+  },
+  {
+    "id": "game_073",
+    "title": "Super Mario Bros. 3",
+    "developer": "Nintendo EAD",
+    "publisher": "Nintendo",
+    "release_date": "1988-10-23",
+    "platforms": [
+      "NES",
+      "Game Boy Advance",
+      "Wii",
+      "3DS",
+      "Switch"
+    ],
+    "genre": "Platformer",
+    "description": "Super Mario Bros. 3 is the pinnacle of NES-era design, featuring a world map, multiple power-ups including Tanooki Suit and Frog Suit, and eight imaginative kingdoms to traverse. The game was so anticipated that it was shown in the film The Wizard before release. It sold over 17 million copies and is frequently cited as one of the best games ever made."
+  },
+  {
+    "id": "game_074",
+    "title": "Super Mario World",
+    "developer": "Nintendo EAD",
+    "publisher": "Nintendo",
+    "release_date": "1990-11-21",
+    "platforms": [
+      "SNES",
+      "Game Boy Advance",
+      "Wii",
+      "3DS",
+      "Switch"
+    ],
+    "genre": "Platformer",
+    "description": "Super Mario World launched the SNES with Yoshi's debut, 96 exits across 72 levels, and a nonlinear world map with hidden paths and secret star worlds. Its tight controls, creative level design, and iconic music made it one of the best-reviewed launch titles ever. It sold over 20 million copies."
+  },
+  {
+    "id": "game_075",
+    "title": "Metroid Prime",
+    "developer": "Retro Studios",
+    "publisher": "Nintendo",
+    "release_date": "2002-11-17",
+    "platforms": [
+      "GameCube",
+      "Wii",
+      "Nintendo Switch"
+    ],
+    "genre": "First-Person Adventure",
+    "description": "Metroid Prime translated the 2D Metroid formula into a first-person perspective on GameCube, with Samus exploring the mysterious Tallon IV through isolated areas connected by environmental storytelling in her visor readouts. Its atmosphere, exploration, and combat earned a 97 Metacritic score. Often cited as the best GameCube game ever made."
+  },
+  {
+    "id": "game_076",
+    "title": "Metroid Prime Remastered",
+    "developer": "Retro Studios",
+    "publisher": "Nintendo",
+    "release_date": "2023-02-08",
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "genre": "First-Person Adventure",
+    "description": "Metroid Prime Remastered is a faithful but visually overhauled version of the 2002 classic, upgrading every texture, model, and lighting effect to modern standards while preserving the original gameplay. It was surprise-released on the Nintendo eShop and later given a physical release. Critics praised it as the definitive way to experience one of gaming's greatest adventures."
+  },
+  {
+    "id": "game_077",
+    "title": "Metroid Dread",
+    "developer": "MercurySteam / Nintendo EPD",
+    "publisher": "Nintendo",
+    "release_date": "2021-10-08",
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "genre": "Action-Adventure / Metroidvania",
+    "description": "Metroid Dread is the direct sequel to Metroid Fusion and the fifth mainline 2D Metroid, following Samus to Planet ZDR to investigate a transmission about the deadly X Parasite. The game introduced the EMMI: relentless robotic stalkers that create tense chase sequences. It sold over 3 million copies and won Best Action/Adventure at The Game Awards 2021."
+  },
+  {
+    "id": "game_078",
+    "title": "Super Metroid",
+    "developer": "Nintendo R&D1",
+    "publisher": "Nintendo",
+    "release_date": "1994-03-19",
+    "platforms": [
+      "SNES",
+      "Wii",
+      "Wii U",
+      "3DS",
+      "Switch"
+    ],
+    "genre": "Action-Adventure / Metroidvania",
+    "description": "Super Metroid established the 'Metroidvania' subgenre template with its interconnected map, ability-gated exploration, and atmospheric isolation on the planet Zebes. Samus must recover the last Metroid larva from the Space Pirates in near silence, with the environment communicating the story. It is universally regarded as one of the greatest games ever made."
+  },
+  {
+    "id": "game_079",
+    "title": "GoldenEye 007",
+    "developer": "Rare",
+    "publisher": "Nintendo",
+    "release_date": "1997-08-25",
+    "platforms": [
+      "Nintendo 64"
+    ],
+    "genre": "First-Person Shooter",
+    "description": "GoldenEye 007 proved that console first-person shooters were viable and legitimized the genre on home consoles, adapting the 1995 Bond film with 18 missions and a revolutionary split-screen multiplayer mode. Its design emphasized stealth, non-linear objective completion, and skill-based difficulty. It sold over 8 million copies and influenced nearly every console FPS that followed."
+  },
+  {
+    "id": "game_080",
+    "title": "Perfect Dark",
+    "developer": "Rare",
+    "publisher": "Nintendo",
+    "release_date": "2000-05-22",
+    "platforms": [
+      "Nintendo 64",
+      "Xbox 360"
+    ],
+    "genre": "First-Person Shooter",
+    "description": "Perfect Dark is Rare's spiritual successor to GoldenEye, following Joanna Dark as a Carrington Institute agent uncovering a conspiracy between megacorporations and alien races. It featured advanced AI, cooperative and counter-operative multiplayer, and over 30 weapons. The N64 expansion pak-requiring game earned a 97 Metacritic score."
+  },
+  {
+    "id": "game_081",
+    "title": "Halo: Combat Evolved",
+    "developer": "Bungie",
+    "publisher": "Microsoft Game Studios",
+    "release_date": "2001-11-15",
+    "platforms": [
+      "Xbox",
+      "PC",
+      "Mac"
+    ],
+    "genre": "First-Person Shooter",
+    "description": "Halo: Combat Evolved launched with the original Xbox and defined console first-person shooters with its twin-stick aiming, regenerating shield system, and the massive sci-fi ringworld of Installation 04. Master Chief's battle against the Covenant and the parasitic Flood across 10 missions set a new bar for console FPS campaigns. Its system link multiplayer was a landmark social gaming experience."
+  },
+  {
+    "id": "game_082",
+    "title": "Halo 2",
+    "developer": "Bungie",
+    "publisher": "Microsoft Game Studios",
+    "release_date": "2004-11-09",
+    "platforms": [
+      "Xbox",
+      "PC"
+    ],
+    "genre": "First-Person Shooter",
+    "description": "Halo 2 introduced online multiplayer to the Xbox via Xbox Live, making it the most-played Xbox Live game for two years. The campaign expanded the universe with playable Arbiter sections showing the Covenant's perspective. Its cliffhanger ending and online infrastructure made it one of the most consequential FPS games in history."
+  },
+  {
+    "id": "game_083",
+    "title": "Halo 3",
+    "developer": "Bungie",
+    "publisher": "Microsoft Game Studios",
+    "release_date": "2007-09-25",
+    "platforms": [
+      "Xbox 360",
+      "PC"
+    ],
+    "genre": "First-Person Shooter",
+    "description": "Halo 3 concluded the original trilogy with Master Chief's final battle against the Flood and the Covenant, marketed with the tagline 'Finish the Fight.' Its Forge map editor, Theater mode for recording gameplay, and expansive multiplayer established features now standard across the industry. It generated $300 million in first-day sales."
+  },
+  {
+    "id": "game_084",
+    "title": "Tony Hawk's Pro Skater 2",
+    "developer": "Neversoft",
+    "publisher": "Activision",
+    "release_date": "2000-09-20",
+    "platforms": [
+      "PlayStation",
+      "N64",
+      "PC",
+      "Dreamcast",
+      "Game Boy Color",
+      "Game Boy Advance",
+      "GameCube",
+      "Xbox"
+    ],
+    "genre": "Sports / Skateboarding",
+    "description": "Tony Hawk's Pro Skater 2 perfected the skateboarding game formula with the addition of manuals, create-a-skater, and a level editor. Its intuitive combo system and massive soundtrack made it arguably the greatest sports game of its generation. It earned Metacritic scores in the 98-point range and remains a touchstone of early 2000s gaming culture."
+  },
+  {
+    "id": "game_085",
+    "title": "Tony Hawk's Pro Skater 3",
+    "developer": "Neversoft",
+    "publisher": "Activision",
+    "release_date": "2001-10-28",
+    "platforms": [
+      "PlayStation 2",
+      "N64",
+      "PC",
+      "GameCube",
+      "Xbox",
+      "Game Boy Advance",
+      "PlayStation"
+    ],
+    "genre": "Sports / Skateboarding",
+    "description": "Tony Hawk's Pro Skater 3 introduced the revert trick for extending combos out of half-pipes, an online multiplayer mode for PS2 and PC, and a more polished level design across 10 new locations. It scored 97 on Metacritic for the PS2 version. The game is often cited as the peak of the original series."
+  },
+  {
+    "id": "game_086",
+    "title": "Metal Gear Solid",
+    "developer": "Konami Computer Entertainment Japan",
+    "publisher": "Konami",
+    "release_date": "1998-09-03",
+    "platforms": [
+      "PlayStation",
+      "PC"
+    ],
+    "genre": "Stealth Action",
+    "description": "Metal Gear Solid brought cinematic storytelling to video games through Solid Snake's mission to stop a nuclear threat from a rogue FOXHOUND unit on Shadow Moses Island. Hideo Kojima's direction blended postmodern fourth-wall breaking with deep Cold War themes. Its influence on stealth game design and narrative presentation is immeasurable."
+  },
+  {
+    "id": "game_087",
+    "title": "Metal Gear Solid 3: Snake Eater",
+    "developer": "Konami Computer Entertainment Japan",
+    "publisher": "Konami",
+    "release_date": "2004-11-17",
+    "platforms": [
+      "PlayStation 2",
+      "PlayStation 3",
+      "PlayStation Vita",
+      "3DS"
+    ],
+    "genre": "Stealth Action",
+    "description": "Snake Eater is a Cold War-era prequel following Naked Snake infiltrating Soviet territory to stop a nuclear weapon and eliminate his former mentor, The Boss. Survival mechanics, camouflage systems, and CQC combat added new depth while the emotional story resonated with themes of patriotism and sacrifice. It is often cited as the finest entry in the Metal Gear series."
+  },
+  {
+    "id": "game_088",
+    "title": "Half-Life",
+    "developer": "Valve",
+    "publisher": "Valve / Sierra Studios",
+    "release_date": "1998-11-19",
+    "platforms": [
+      "PC",
+      "PlayStation 2"
+    ],
+    "genre": "First-Person Shooter",
+    "description": "Half-Life follows physicist Gordon Freeman through the aftermath of a catastrophic alien invasion triggered at Black Mesa Research Facility. Its seamless, scripted set-pieces and lack of cutscenes revolutionized how games told stories. It won over 50 Game of the Year awards and proved PC FPS games could have narrative depth."
+  },
+  {
+    "id": "game_089",
+    "title": "Half-Life 2",
+    "developer": "Valve",
+    "publisher": "Valve",
+    "release_date": "2004-11-16",
+    "platforms": [
+      "PC",
+      "Xbox",
+      "Xbox 360",
+      "PlayStation 3",
+      "Mac",
+      "Linux"
+    ],
+    "genre": "First-Person Shooter",
+    "description": "Half-Life 2 advanced every dimension of first-person shooter design with the Gravity Gun physics tool, richly realized City 17 setting, and characters with sophisticated facial animation. Gordon Freeman's rebellion against the Combine alien regime across 15 hours remains one of gaming's most celebrated experiences. It won over 39 perfect scores at launch."
+  },
+  {
+    "id": "game_090",
+    "title": "Portal",
+    "developer": "Valve",
+    "publisher": "Valve",
+    "release_date": "2007-10-10",
+    "platforms": [
+      "PC",
+      "Xbox 360",
+      "PlayStation 3",
+      "Mac",
+      "Linux"
+    ],
+    "genre": "Puzzle",
+    "description": "Portal is a deceptively simple puzzle game where players use a portal gun to create linked doorways and solve physics-based challenges under the sarcastic observation of GLaDOS, a murderous AI. Released as part of The Orange Box compilation, it became one of gaming's most quoted and beloved experiences in under four hours. The promise of cake became a cultural meme."
+  },
+  {
+    "id": "game_091",
+    "title": "Portal 2",
+    "developer": "Valve",
+    "publisher": "Valve",
+    "release_date": "2011-04-19",
+    "platforms": [
+      "PC",
+      "Xbox 360",
+      "PlayStation 3",
+      "Mac",
+      "Linux"
+    ],
+    "genre": "Puzzle",
+    "description": "Portal 2 expanded the original with new gel mechanics, a full co-op campaign, and a deeper narrative exploring Aperture Science's absurdist history through pre-recorded messages from founder Cave Johnson. The partnership between Chell and the reformed (sort of) GLaDOS became one of gaming's greatest character duos. It is consistently among the highest-rated games on Steam."
+  },
+  {
+    "id": "game_092",
+    "title": "BioShock",
+    "developer": "Irrational Games",
+    "publisher": "2K Games",
+    "release_date": "2007-08-21",
+    "platforms": [
+      "PC",
+      "Xbox 360",
+      "PlayStation 3",
+      "Mac",
+      "iOS",
+      "Nintendo Switch"
+    ],
+    "genre": "First-Person Shooter / Action RPG",
+    "description": "BioShock drops players into the collapsing underwater city of Rapture, a failed Ayn Rand-inspired utopia now ruled by spliced-up psychopaths and a corrupted despot. Its twist is considered one of gaming's greatest narrative moments. The combination of environmental storytelling, plasmid powers, and philosophical themes made it a landmark of mature game design."
+  },
+  {
+    "id": "game_093",
+    "title": "BioShock Infinite",
+    "developer": "Irrational Games",
+    "publisher": "2K Games",
+    "release_date": "2013-03-26",
+    "platforms": [
+      "PC",
+      "Xbox 360",
+      "PlayStation 3",
+      "Mac",
+      "Linux",
+      "iOS"
+    ],
+    "genre": "First-Person Shooter",
+    "description": "BioShock Infinite reimagines the BioShock formula in the floating city of Columbia, a jingoistic early 1900s American utopia, where Booker DeWitt must rescue Elizabeth, a girl with dimension-tearing powers. Its narrative ambition exploring racism, American exceptionalism, and quantum mechanics set it apart from contemporaries. The ending is one of gaming's most discussed."
+  },
+  {
+    "id": "game_094",
+    "title": "Mass Effect 2",
+    "developer": "BioWare",
+    "publisher": "Electronic Arts",
+    "release_date": "2010-01-26",
+    "platforms": [
+      "PC",
+      "Xbox 360",
+      "PlayStation 3"
+    ],
+    "genre": "Action RPG",
+    "description": "Mass Effect 2 is Commander Shepard's suicide mission: assembling a team of broken, morally complex characters to destroy a Collector base threatening humanity. Its loyalty mission structure, where player choices determine who survives, delivered some of the most emotionally resonant moments in RPG history. It holds a 96 on Metacritic for Xbox 360."
+  },
+  {
+    "id": "game_095",
+    "title": "Mass Effect",
+    "developer": "BioWare",
+    "publisher": "Microsoft Game Studios / Electronic Arts",
+    "release_date": "2007-11-20",
+    "platforms": [
+      "Xbox 360",
+      "PC",
+      "PlayStation 3"
+    ],
+    "genre": "Action RPG",
+    "description": "Mass Effect established the trilogy's universe and Shepard's character through conversations with the Spectre Council, a galaxy-spanning conspiracy, and the threat of the Reapers. Its real-time combat blended with deep dialogue trees and relationship systems. The promise that choices would carry across three games was unprecedented for a AAA series."
+  },
+  {
+    "id": "game_096",
+    "title": "Uncharted 2: Among Thieves",
+    "developer": "Naughty Dog",
+    "publisher": "Sony Computer Entertainment",
+    "release_date": "2009-10-13",
+    "platforms": [
+      "PlayStation 3",
+      "PlayStation 4"
+    ],
+    "genre": "Action-Adventure",
+    "description": "Uncharted 2 redefined cinematic action gaming with its train sequence opening, Tibetan village safe haven, and relentless set-pieces involving Nathan Drake hunting the Cintamani Stone. It established Naughty Dog as the foremost studio for narrative-driven action games. The game holds a 96 on Metacritic and won numerous 2009 Game of the Year awards."
+  },
+  {
+    "id": "game_097",
+    "title": "The Last of Us",
+    "developer": "Naughty Dog",
+    "publisher": "Sony Computer Entertainment",
+    "release_date": "2013-06-14",
+    "platforms": [
+      "PlayStation 3",
+      "PlayStation 4"
+    ],
+    "genre": "Action-Adventure / Survival Horror",
+    "description": "The Last of Us follows smuggler Joel and immune teenager Ellie across a post-pandemic America ravaged by a fungal infection, building one of gaming's most emotionally powerful character relationships. Its stealth and combat systems emphasized resource scarcity and desperation. The game earned over 200 Game of the Year awards and became a landmark of narrative game design."
+  },
+  {
+    "id": "game_098",
+    "title": "God of War (2018)",
+    "developer": "Santa Monica Studio",
+    "publisher": "Sony Interactive Entertainment",
+    "release_date": "2018-04-20",
+    "platforms": [
+      "PlayStation 4",
+      "PC"
+    ],
+    "genre": "Action-Adventure",
+    "description": "The 2018 God of War reinvented the series with a Norse mythology setting, shifting from Greek gods to a father-son journey through the Nine Realms. The entire game is presented in a single unbroken camera shot, with Kratos wielding the Leviathan Axe alongside Atreus. It won Game of the Year at The Game Awards 2018 and is widely regarded as one of the greatest games ever made."
+  },
+  {
+    "id": "game_099",
+    "title": "Shadow of the Colossus",
+    "developer": "Team Ico",
+    "publisher": "Sony Computer Entertainment",
+    "release_date": "2005-10-18",
+    "platforms": [
+      "PlayStation 2",
+      "PlayStation 3",
+      "PlayStation 4"
+    ],
+    "genre": "Action-Adventure",
+    "description": "Shadow of the Colossus strips away all conventional game elements to focus on 16 epic boss battles against giant colossi in a vast, empty world. Each colossus is a unique environmental puzzle requiring players to find handholds and vulnerable points while scaling its body. The game's minimalism, haunting score, and ambiguous morality make it one of gaming's greatest artistic statements."
+  },
+  {
+    "id": "game_100",
+    "title": "Journey",
+    "developer": "thatgamecompany",
+    "publisher": "Sony Computer Entertainment",
+    "release_date": "2012-03-13",
+    "platforms": [
+      "PlayStation 3",
+      "PlayStation 4",
+      "PC",
+      "iOS"
+    ],
+    "genre": "Adventure",
+    "description": "Journey is a wordless, 2-hour artistic experience where a robed figure traverses a vast desert toward a distant mountain, with the option to encounter one other anonymous player who cannot communicate except through chirps. Its emotional arc, stunning visual design, and Austin Wintory's dynamic score create an experience unlike anything else in gaming. It was the first game to earn Grammy consideration for its score."
+  },
+  {
+    "id": "game_101",
+    "title": "Dark Souls",
+    "developer": "FromSoftware",
+    "publisher": "Namco Bandai Games",
+    "release_date": "2011-09-22",
+    "platforms": [
+      "PlayStation 3",
+      "Xbox 360",
+      "PC",
+      "Nintendo Switch",
+      "PlayStation 4",
+      "Xbox One"
+    ],
+    "genre": "Action RPG",
+    "description": "Dark Souls established the 'Soulslike' subgenre with its punishing but fair combat, interconnected world of Lordran, and environmental lore-telling through item descriptions. Players must defeat increasingly powerful bosses while managing stamina and careful positioning. Its design philosophy of earned difficulty without hand-holding influenced an entire generation of developers."
+  },
+  {
+    "id": "game_102",
+    "title": "Bloodborne",
+    "developer": "FromSoftware",
+    "publisher": "Sony Computer Entertainment",
+    "release_date": "2015-03-24",
+    "platforms": [
+      "PlayStation 4"
+    ],
+    "genre": "Action RPG",
+    "description": "Bloodborne trades Dark Souls' defensive playstyle for aggressive, fast-paced hunter combat set in the gothic horror city of Yharnam during a night of bestial plague. The regain system rewards aggression, and the Lovecraftian escalation of the horror across the campaign is uniquely disturbing. It is among the most critically acclaimed PlayStation 4 exclusives."
+  },
+  {
+    "id": "game_103",
+    "title": "Sekiro: Shadows Die Twice",
+    "developer": "FromSoftware",
+    "publisher": "Activision",
+    "release_date": "2019-03-22",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "Xbox One"
+    ],
+    "genre": "Action-Adventure",
+    "description": "Sekiro follows a shinobi known as Wolf in a fictionalized late 1500s Japan, with prosthetic arm tools and a posture-based swordfighting system that demands precise deflection timing rather than dodging. The game won Game of the Year at The Game Awards 2019. Its swordplay is considered among the most technically demanding and rewarding in the genre."
+  },
+  {
+    "id": "game_104",
+    "title": "Resident Evil 4 (2005)",
+    "developer": "Capcom Production Studio 4",
+    "publisher": "Capcom",
+    "release_date": "2005-01-11",
+    "platforms": [
+      "GameCube",
+      "PlayStation 2",
+      "PC",
+      "Wii",
+      "Xbox 360",
+      "PS3",
+      "iOS",
+      "Nintendo Switch",
+      "PlayStation 4",
+      "Xbox One"
+    ],
+    "genre": "Survival Horror / Third-Person Shooter",
+    "description": "Resident Evil 4 reinvented survival horror and third-person action gaming simultaneously, placing Leon Kennedy in rural Spain to rescue the President's daughter from a parasitic cult. Its over-the-shoulder camera, context-sensitive actions, and mercenaries mode were immediately copied across the industry. It holds a 96 Metacritic score for GameCube."
+  },
+  {
+    "id": "game_105",
+    "title": "Resident Evil 4 Remake",
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "release_date": "2023-03-24",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox Series X/S",
+      "iOS",
+      "Mac"
+    ],
+    "genre": "Survival Horror / Third-Person Shooter",
+    "description": "The 2023 Resident Evil 4 Remake faithfully reconstructs the 2005 classic with modern graphics and controls while expanding Ashley's role, deepening side characters, and adding the Merchant's challenges. It preserves the original's pacing and tension while making the combat feel distinctly modern. Critics called it one of the best remakes in gaming history."
+  },
+  {
+    "id": "game_106",
+    "title": "Tekken 3",
+    "developer": "Namco",
+    "publisher": "Namco",
+    "release_date": "1997-03-20",
+    "platforms": [
+      "Arcade",
+      "PlayStation"
+    ],
+    "genre": "Fighting",
+    "description": "Tekken 3 is the franchise's breakthrough entry, adding fluid sidestep movement that fundamentally changed 3D fighting game design, and featuring the largest roster of the series at the time. Its tight gameplay, diverse characters, and Tekken Force mode made it the best-selling Tekken game. The PS1 version holds a 96 on Metacritic."
+  },
+  {
+    "id": "game_107",
+    "title": "Persona 5 Royal",
+    "developer": "Atlus",
+    "publisher": "Atlus",
+    "release_date": "2019-10-31",
+    "platforms": [
+      "PlayStation 4",
+      "PlayStation 5",
+      "PC",
+      "Xbox One",
+      "Xbox Series X/S",
+      "Nintendo Switch"
+    ],
+    "genre": "Role-Playing Game",
+    "description": "Persona 5 Royal is the expanded version of Persona 5, following the Phantom Thieves of Hearts who enter a supernatural Metaverse to steal the corrupt desires of adults, expressed as surreal Palaces. Royal adds a third semester, a new character, and refined combat. It is one of the highest-rated JRPGs ever made."
+  },
+  {
+    "id": "game_108",
+    "title": "Persona 5",
+    "developer": "Atlus",
+    "publisher": "Atlus / Deep Silver",
+    "release_date": "2017-04-04",
+    "platforms": [
+      "PlayStation 3",
+      "PlayStation 4"
+    ],
+    "genre": "Role-Playing Game",
+    "description": "Persona 5 blends dungeon-crawling JRPG combat with a social sim about high school life and supernatural heist adventures in a stylized Tokyo. Players balance relationships with teammates, teachers, and civilians while stealing the warped desires of corrupt authority figures. Its presentation, soundtrack, and cast set a new benchmark for the genre."
+  },
+  {
+    "id": "game_109",
+    "title": "NieR: Automata",
+    "developer": "PlatinumGames",
+    "publisher": "Square Enix",
+    "release_date": "2017-03-07",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "genre": "Action RPG",
+    "description": "NieR: Automata follows android warriors 2B and 9S in a proxy war between machine lifeforms and android soldiers on a post-human Earth, requiring multiple playthroughs to reveal the full story. Yoko Taro's meta-narrative deconstructs video game conventions while exploring existentialism and the nature of consciousness. It sold over 8 million copies."
+  },
+  {
+    "id": "game_110",
+    "title": "Divinity: Original Sin 2",
+    "developer": "Larian Studios",
+    "publisher": "Larian Studios",
+    "release_date": "2017-09-14",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "Xbox One",
+      "Nintendo Switch",
+      "iPad"
+    ],
+    "genre": "Role-Playing Game",
+    "description": "Divinity: Original Sin 2 is a deep, systemically rich turn-based RPG where players forge one of six origin characters (or a custom one) through the world of Rivellon's Source magic conflict. Its elemental interaction systems, four-player co-op, and branching narrative that responds to almost every player choice set a new standard for the genre. It is considered a direct spiritual predecessor to Baldur's Gate 3."
+  },
+  {
+    "id": "game_111",
+    "title": "Hades",
+    "developer": "Supergiant Games",
+    "publisher": "Supergiant Games",
+    "release_date": "2020-09-17",
+    "platforms": [
+      "PC",
+      "Nintendo Switch",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox One",
+      "Xbox Series X/S",
+      "iOS",
+      "Mac"
+    ],
+    "genre": "Action Roguelike",
+    "description": "Hades follows Zagreus, son of Hades, attempting to escape the Underworld while receiving boons from Olympian gods who have their own agendas. The game perfected the narrative roguelike by advancing the story with each run regardless of success or failure. It won numerous Game of the Year awards and is considered the genre's definitive example."
+  },
+  {
+    "id": "game_112",
+    "title": "Hades II",
+    "developer": "Supergiant Games",
+    "publisher": "Supergiant Games",
+    "release_date": "2024-05-06",
+    "platforms": [
+      "PC"
+    ],
+    "genre": "Action Roguelike",
+    "description": "Hades II is the early access sequel following Melinoë, sister of Zagreus, fighting to save the Underworld from the Titan Chronos. It expands the boon system, adds new weapon classes and characters, and layers in a deeper narrative across runs. Even in early access, it became one of the highest-rated games on Steam by user review."
+  },
+  {
+    "id": "game_113",
+    "title": "Celeste",
+    "developer": "Maddy Thorson / Noel Berry",
+    "publisher": "Matt Makes Games",
+    "release_date": "2018-01-25",
+    "platforms": [
+      "PC",
+      "Nintendo Switch",
+      "PlayStation 4",
+      "Xbox One",
+      "iOS",
+      "Mac",
+      "Linux",
+      "Stadia"
+    ],
+    "genre": "Platformer",
+    "description": "Celeste is a precision platformer following Madeline's journey to climb the titular mountain, exploring themes of anxiety, mental health, and self-acceptance. Its tight controls, well-designed levels, and extensive assist mode for accessibility made it both critically acclaimed and commercially successful. It won Best Independent Game at The Game Awards 2018."
+  },
+  {
+    "id": "game_114",
+    "title": "Hollow Knight",
+    "developer": "Team Cherry",
+    "publisher": "Team Cherry",
+    "release_date": "2017-02-24",
+    "platforms": [
+      "PC",
+      "Nintendo Switch",
+      "PlayStation 4",
+      "Xbox One",
+      "Mac",
+      "Linux"
+    ],
+    "genre": "Action-Adventure / Metroidvania",
+    "description": "Hollow Knight is a hand-drawn Metroidvania set in Hallownest, a ruined bug kingdom below the surface, where the Knight must uncover the source of a spreading infection. Its precise combat, intricate map design, and deeply atmospheric world-building at a $15 price point made it one of indie gaming's defining achievements. The game sold over 5 million copies."
+  },
+  {
+    "id": "game_115",
+    "title": "Disco Elysium",
+    "developer": "ZA/UM",
+    "publisher": "ZA/UM",
+    "release_date": "2019-10-15",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox One",
+      "Xbox Series X/S",
+      "Nintendo Switch",
+      "iOS",
+      "Mac",
+      "Linux"
+    ],
+    "genre": "Role-Playing Game",
+    "description": "Disco Elysium is a dialogue-heavy RPG with no combat, following an amnesiac detective investigating a murder in the crumbling city of Revachol while battling his own fractured psyche. Players build character skills that argue with each other in internal dialogues, creating a uniquely introspective experience. It is considered one of the most original and literary games ever made."
+  },
+  {
+    "id": "game_116",
+    "title": "Outer Wilds",
+    "developer": "Mobius Digital",
+    "publisher": "Annapurna Interactive",
+    "release_date": "2019-05-28",
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "PlayStation 4",
+      "Nintendo Switch",
+      "Epic Games Store"
+    ],
+    "genre": "Exploration / Adventure",
+    "description": "Outer Wilds is an exploration mystery game set in a hand-crafted solar system where the player is trapped in a 22-minute time loop ending in a supernova. Through curiosity-driven exploration and environmental storytelling, players piece together the fate of an ancient alien civilization. It frequently appears on lists of the greatest games ever made."
+  },
+  {
+    "id": "game_117",
+    "title": "Undertale",
+    "developer": "tobyfox",
+    "publisher": "tobyfox",
+    "release_date": "2015-09-15",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "Nintendo Switch",
+      "Xbox One",
+      "Mac",
+      "Linux",
+      "PlayStation Vita"
+    ],
+    "genre": "Role-Playing Game",
+    "description": "Undertale is an indie RPG where a human child falls into a monster-populated Underground and must find a way home, with the option to complete the game without killing any enemy through a pacifist route. Its subversive approach to RPG conventions, memorable characters, and score by creator tobyfox made it a cultural phenomenon on a $10 budget. It sold over 3 million copies."
+  },
+  {
+    "id": "game_118",
+    "title": "Slay the Spire",
+    "developer": "MegaCrit",
+    "publisher": "Humble Bundle",
+    "release_date": "2019-01-23",
+    "platforms": [
+      "PC",
+      "Nintendo Switch",
+      "PlayStation 4",
+      "Xbox One",
+      "iOS",
+      "Android",
+      "Mac",
+      "Linux"
+    ],
+    "genre": "Deck-Building Roguelike",
+    "description": "Slay the Spire combines deckbuilding card games with roguelike structure, as players ascend the Spire by drafting cards into a synergistic deck and defeating increasingly powerful enemies. Its design inspired an entire subgenre of deckbuilder roguelikes. The game holds a 'Overwhelmingly Positive' Steam rating from over 100,000 reviews."
+  },
+  {
+    "id": "game_119",
+    "title": "Cuphead",
+    "developer": "Studio MDHR",
+    "publisher": "Studio MDHR",
+    "release_date": "2017-09-29",
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "Nintendo Switch",
+      "PlayStation 4",
+      "Mac"
+    ],
+    "genre": "Run and Gun / Boss Rush",
+    "description": "Cuphead is a run-and-gun boss rush game with hand-drawn 1930s rubber hose animation art style, following Cuphead and Mugman paying off their debt to the Devil by collecting soul contracts. Each boss is a visually inventive multi-phase encounter requiring pattern memorization. Its art and sound design are among the most distinctive in video game history."
+  },
+  {
+    "id": "game_120",
+    "title": "Ghost of Tsushima",
+    "developer": "Sucker Punch Productions",
+    "publisher": "Sony Interactive Entertainment",
+    "release_date": "2020-07-17",
+    "platforms": [
+      "PlayStation 4",
+      "PlayStation 5",
+      "PC"
+    ],
+    "genre": "Action-Adventure",
+    "description": "Ghost of Tsushima follows Jin Sakai as he adapts traditional samurai honor to guerrilla tactics to repel a Mongol invasion of Tsushima Island in 1274. Its open world evokes classic samurai cinema with a painterly art direction and dynamic weather. The game sold over 10 million copies and won the fan-voted Player's Voice award at The Game Awards 2020."
+  },
+  {
+    "id": "game_121",
+    "title": "Horizon Zero Dawn",
+    "developer": "Guerrilla Games",
+    "publisher": "Sony Interactive Entertainment",
+    "release_date": "2017-02-28",
+    "platforms": [
+      "PlayStation 4",
+      "PC"
+    ],
+    "genre": "Action RPG",
+    "description": "Horizon Zero Dawn is set in a post-apocalyptic Earth reclaimed by nature and ruled by mechanical dinosaur-like machines, following hunter Aloy uncovering the secrets of this world and her own origins. Its tribal societies, machine lore, and archery-focused combat were highly praised. The game sold over 20 million copies."
+  },
+  {
+    "id": "game_122",
+    "title": "Ratchet & Clank: Rift Apart",
+    "developer": "Insomniac Games",
+    "publisher": "Sony Interactive Entertainment",
+    "release_date": "2021-06-11",
+    "platforms": [
+      "PlayStation 5",
+      "PC"
+    ],
+    "genre": "Action-Platformer",
+    "description": "Rift Apart is a PS5 showcase title following Ratchet and Clank across dimensions after a dimension-shattering device opens rifts across multiple realities, introducing new hero Rivet. It demonstrated near-instant SSD loading and haptic controller feedback in ways that fundamentally changed how players interact with the environment. It won Best Technology at The Game Awards 2021."
+  },
+  {
+    "id": "game_123",
+    "title": "Astro Bot",
+    "developer": "Team Asobi",
+    "publisher": "Sony Interactive Entertainment",
+    "release_date": "2024-09-06",
+    "platforms": [
+      "PlayStation 5"
+    ],
+    "genre": "Platformer",
+    "description": "Astro Bot is a 3D platformer celebrating PlayStation's history with over 300 robots paying homage to iconic PS characters, built around the DualSense controller's haptic and adaptive trigger features. Its creative level design and joyful tone made it an immediate classic. The game won Game of the Year at The Game Awards 2024."
+  },
+  {
+    "id": "game_124",
+    "title": "Forza Horizon 5",
+    "developer": "Playground Games",
+    "publisher": "Microsoft",
+    "release_date": "2021-11-09",
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "Xbox Series X/S"
+    ],
+    "genre": "Racing",
+    "description": "Forza Horizon 5 is an open-world racing game set in a beautifully realized Mexico with diverse biomes from jungles to deserts to volcanoes. Its accessibility from beginner-friendly assists to hardcore simulation settings, plus over 500 licensed vehicles, made it one of the most inclusive racing games ever. It reached 4.5 million players in its first week."
+  },
+  {
+    "id": "game_125",
+    "title": "Yakuza 0",
+    "developer": "Ryu Ga Gotoku Studio",
+    "publisher": "Sega",
+    "release_date": "2015-03-12",
+    "platforms": [
+      "PlayStation 3",
+      "PlayStation 4",
+      "PC",
+      "Xbox One",
+      "Xbox Series X/S"
+    ],
+    "genre": "Action-Adventure / Beat 'em up",
+    "description": "Yakuza 0 is the prequel to the Yakuza series, set in 1980s Tokyo and Osaka during Japan's economic bubble, following young Kazuma Kiryu and Goro Majima before they became legends. Its wildly diverse side content, brawling combat, and heartfelt narrative made it the perfect entry point and fan-favorite in the series. It introduced the Yakuza franchise to Western audiences."
+  },
+  {
+    "id": "game_126",
+    "title": "Counter-Strike 2",
+    "developer": "Valve",
+    "publisher": "Valve",
+    "release_date": "2023-09-27",
+    "platforms": [
+      "PC"
+    ],
+    "genre": "Tactical Shooter",
+    "description": "Counter-Strike 2 is the free-to-play replacement for CS:GO, built on Source 2 with overhauled audio, visual, and network infrastructure. The game preserved CS's 5v5 bomb-defusal competitive format while updating smoke grenades to volumetrically interact with the environment. It remained one of Steam's most-played games immediately after launch."
+  },
+  {
+    "id": "game_127",
+    "title": "Dota 2",
+    "developer": "Valve",
+    "publisher": "Valve",
+    "release_date": "2013-07-09",
+    "platforms": [
+      "PC",
+      "Mac",
+      "Linux"
+    ],
+    "genre": "MOBA",
+    "description": "Dota 2 is a free-to-play multiplayer online battle arena game evolved from the Warcraft III custom map DotA Allstars, featuring 120+ heroes competing in 5v5 matches to destroy the enemy Ancient. Its extreme depth, steep learning curve, and billion-dollar prize pools at The International esports championship make it one of the most competitive games ever made. It regularly peaks over 800,000 concurrent players."
+  },
+  {
+    "id": "game_128",
+    "title": "League of Legends",
+    "developer": "Riot Games",
+    "publisher": "Riot Games",
+    "release_date": "2009-10-27",
+    "platforms": [
+      "PC",
+      "Mac"
+    ],
+    "genre": "MOBA",
+    "description": "League of Legends is the world's most played PC game by active player count, a free-to-play MOBA where teams of five champions compete to destroy the enemy Nexus. Its 160+ champion roster, frequent seasonal updates, and massive global esports scene including the World Championship generate over $1.5 billion annually. It defined competitive online gaming for an entire decade."
+  },
+  {
+    "id": "game_129",
+    "title": "Apex Legends",
+    "developer": "Respawn Entertainment",
+    "publisher": "Electronic Arts",
+    "release_date": "2019-02-04",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox One",
+      "Xbox Series X/S",
+      "Nintendo Switch",
+      "Mobile"
+    ],
+    "genre": "Battle Royale",
+    "description": "Apex Legends is a hero battle royale combining unique character abilities with fast movement mechanics including sliding, bunny-hopping, and ziplines in team-based play. Its surprise launch with zero pre-launch marketing reached 50 million players in its first month. The ping communication system became an industry-standard innovation for marking information without voice chat."
+  },
+  {
+    "id": "game_130",
+    "title": "Rocket League",
+    "developer": "Psyonix",
+    "publisher": "Psyonix / Epic Games",
+    "release_date": "2015-07-07",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox One",
+      "Xbox Series X/S",
+      "Nintendo Switch"
+    ],
+    "genre": "Sports / Vehicular Soccer",
+    "description": "Rocket League is a high-octane game where rocket-powered cars play soccer, combining the mechanical depth of fighting games with the accessibility of sports. Its physics-based skill ceiling ranging from kickoffs to aerial shots created one of esports' most dramatic and watchable competitive scenes. Going free-to-play in 2020 dramatically expanded the playerbase."
+  },
+  {
+    "id": "game_131",
+    "title": "Valheim",
+    "developer": "Iron Gate Studio",
+    "publisher": "Coffee Stain Publishing",
+    "release_date": "2021-02-02",
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "Xbox Series X/S"
+    ],
+    "genre": "Survival / Sandbox",
+    "description": "Valheim is a Norse mythology-themed survival sandbox where slain Vikings prove their worth in a procedurally generated world ruled by ancient creatures. Its viking long house building system, sailing mechanics, and boss-progression loop became an overnight sensation on Steam, reaching over 500,000 concurrent players within two weeks of early access launch."
+  },
+  {
+    "id": "game_132",
+    "title": "Deep Rock Galactic",
+    "developer": "Ghost Ship Games",
+    "publisher": "Coffee Stain Publishing",
+    "release_date": "2020-05-13",
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "Xbox Series X/S",
+      "PlayStation 4",
+      "PlayStation 5"
+    ],
+    "genre": "Co-op Shooter",
+    "description": "Deep Rock Galactic is a 1-4 player co-operative first-person shooter where space dwarves drill into procedurally generated caves to complete mining missions and fight insectoid aliens. Its class-based teamwork, procedural map generation, and strong community culture earned it a 'Overwhelmingly Positive' Steam rating. Rock and Stone!"
+  },
+  {
+    "id": "game_133",
+    "title": "Warframe",
+    "developer": "Digital Extremes",
+    "publisher": "Digital Extremes",
+    "release_date": "2013-03-25",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox One",
+      "Xbox Series X/S",
+      "Nintendo Switch"
+    ],
+    "genre": "Action / Third-Person Shooter",
+    "description": "Warframe is a free-to-play cooperative third-person shooter where players control Tenno warriors wearing biomechanical suits called Warframes with unique powers. Its extensive content, frequent large expansions called Cinematic Quests, and player-driven trade economy have sustained an active community for over a decade. The game has over 70 million registered players."
+  },
+  {
+    "id": "game_134",
+    "title": "Dead by Daylight",
+    "developer": "Behaviour Interactive",
+    "publisher": "Behaviour Interactive",
+    "release_date": "2016-06-14",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox One",
+      "Xbox Series X/S",
+      "Nintendo Switch",
+      "iOS",
+      "Android"
+    ],
+    "genre": "Asymmetric Survival Horror",
+    "description": "Dead by Daylight is an asymmetric horror game where four survivors attempt to escape a procedurally generated map while one player-controlled killer hunts them. Its licensed roster including characters from Friday the 13th, Resident Evil, Stranger Things, and Silent Hill created a definitive horror gaming crossover universe. It reached over 50 million players."
+  },
+  {
+    "id": "game_135",
+    "title": "No Man's Sky",
+    "developer": "Hello Games",
+    "publisher": "Hello Games",
+    "release_date": "2016-08-09",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox One",
+      "Xbox Series X/S",
+      "Nintendo Switch"
+    ],
+    "genre": "Survival / Exploration",
+    "description": "No Man's Sky offers procedurally generated exploration across 18 quintillion planets in a shared universe, with base building, multiplayer expeditions, and space combat. Its disastrous launch was followed by one of gaming's most remarkable redemption arcs through 30+ free updates that transformed it into the game originally promised. The studio's commitment earned it a passionate dedicated community."
+  },
+  {
+    "id": "game_136",
+    "title": "Sea of Thieves",
+    "developer": "Rare",
+    "publisher": "Microsoft",
+    "release_date": "2018-03-20",
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "Xbox Series X/S",
+      "PlayStation 5"
+    ],
+    "genre": "Action-Adventure / Multiplayer",
+    "description": "Sea of Thieves is a shared-world pirate adventure where players sail galleons, hunt treasure, battle sea monsters, and engage other pirate crews in emergent multiplayer encounters. Its evolving seasonal content model and pirate story expansions steadily built a loyal playerbase. The game reached 40 million players and expanded to PlayStation 5 in 2024."
+  },
+  {
+    "id": "game_137",
+    "title": "Destiny 2",
+    "developer": "Bungie",
+    "publisher": "Bungie",
+    "release_date": "2017-09-06",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox One",
+      "Xbox Series X/S"
+    ],
+    "genre": "First-Person Shooter / Action RPG",
+    "description": "Destiny 2 is a free-to-play online multiplayer FPS where Guardians defend humanity from alien threats across a solar system of exotic worlds using elemental powers and sci-fantasy weapons. Its addictive loot loop, six-player raid encounters, and seasonal narrative model made it a defining live-service game. The game has over 40 million registered players."
+  },
+  {
+    "id": "game_138",
+    "title": "Final Fantasy VII",
+    "developer": "Square",
+    "publisher": "Square / Eidos Interactive",
+    "release_date": "1997-01-31",
+    "platforms": [
+      "PlayStation",
+      "PC",
+      "iOS",
+      "Android",
+      "Nintendo Switch",
+      "PlayStation 4",
+      "Xbox One"
+    ],
+    "genre": "Role-Playing Game",
+    "description": "Final Fantasy VII brought JRPG gaming to Western mainstream audiences with 3D graphics and a cinematic scope unusual for 1997, following eco-terrorist Cloud Strife and his allies against the Shinra corporation and the nihilistic Sephiroth. Its materia system, optional content, and emotional story beats made it one of the most influential RPGs ever made. It sold over 13 million copies."
+  },
+  {
+    "id": "game_139",
+    "title": "Final Fantasy X",
+    "developer": "Square",
+    "publisher": "Square / Sony Computer Entertainment",
+    "release_date": "2001-07-19",
+    "platforms": [
+      "PlayStation 2",
+      "PlayStation 3",
+      "PlayStation 4",
+      "PlayStation Vita",
+      "PC",
+      "Nintendo Switch",
+      "Xbox One"
+    ],
+    "genre": "Role-Playing Game",
+    "description": "Final Fantasy X introduced full voice acting to the mainline series and a sphere grid character progression system, following summoner Yuna and guardian Tidus across the world of Spira to defeat the monstrous Sin. Its themes of mortality and acceptance, and the relationship between the two leads, resonated deeply with players. It sold over 8 million copies."
+  },
+  {
+    "id": "game_140",
+    "title": "Chrono Trigger",
+    "developer": "Square",
+    "publisher": "Square",
+    "release_date": "1995-03-11",
+    "platforms": [
+      "SNES",
+      "PlayStation",
+      "Nintendo DS",
+      "PC",
+      "iOS",
+      "Android"
+    ],
+    "genre": "Role-Playing Game",
+    "description": "Chrono Trigger is a time-travel JRPG designed by the 'Dream Team' of Dragon Ball creator Akira Toriyama, Final Fantasy's Hironobu Sakaguchi, and composer Yasunori Mitsuda. Players travel through multiple eras of history to prevent a catastrophic future, with 13 endings based on when they choose to confront the final boss. It is consistently ranked among the greatest games ever made."
+  },
+  {
+    "id": "game_141",
+    "title": "Castlevania: Symphony of the Night",
+    "developer": "Konami Computer Entertainment Tokyo",
+    "publisher": "Konami",
+    "release_date": "1997-03-20",
+    "platforms": [
+      "PlayStation",
+      "Saturn",
+      "PSP",
+      "Xbox 360",
+      "iOS",
+      "Android",
+      "PlayStation 4",
+      "Nintendo Switch"
+    ],
+    "genre": "Action-Adventure / Metroidvania",
+    "description": "Symphony of the Night gave its name to the 'Metroidvania' genre, following Alucard through Dracula's inverted castle that reveals itself halfway through as the true challenge. Its deep RPG systems, rich exploration, and Yamane's jazz-influenced score made it one of the most beloved games of its era. The infamous 'What is a man?' voiced opening became legendary."
+  },
+  {
+    "id": "game_142",
+    "title": "Xenoblade Chronicles",
+    "developer": "Monolith Soft",
+    "publisher": "Nintendo",
+    "release_date": "2010-06-10",
+    "platforms": [
+      "Wii",
+      "New Nintendo 3DS",
+      "Nintendo Switch"
+    ],
+    "genre": "Role-Playing Game",
+    "description": "Xenoblade Chronicles is an open-world JRPG set on the fossilized bodies of two enormous titans who fought eons ago, following Shulk who wields the prophetic Monado blade. Its seamless world design, real-time arts-based combat, and ambitious narrative scope raised the bar for the genre. The original Wii release was so sought-after it required a fan campaign to reach North America."
+  },
+  {
+    "id": "game_143",
+    "title": "Fire Emblem: Three Houses",
+    "developer": "Intelligent Systems / Koei Tecmo",
+    "publisher": "Nintendo",
+    "release_date": "2019-07-26",
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "genre": "Tactical RPG",
+    "description": "Fire Emblem: Three Houses follows a professor at Garreg Mach Monastery who must choose one of three noble houses to lead through tactical battles and political upheaval that splits into four distinct routes with different perspectives on the same war. Its combination of social sim, classroom management, and strategy combat made it the series' best-selling game. It sold over 3 million copies."
+  },
+  {
+    "id": "game_144",
+    "title": "Batman: Arkham City",
+    "developer": "Rocksteady Studios",
+    "publisher": "Warner Bros. Interactive Entertainment",
+    "release_date": "2011-10-18",
+    "platforms": [
+      "PC",
+      "PlayStation 3",
+      "Xbox 360",
+      "Wii U",
+      "iOS",
+      "macOS"
+    ],
+    "genre": "Action-Adventure",
+    "description": "Batman: Arkham City expanded the intimate Arkham Asylum setting into an open-world section of Gotham converted into a super-criminal prison, with Batman investigating Protocol 10 while facing the Joker, Ra's al Ghul, and Hugo Strange. Its freeflow combat system, gadget variety, and voice performances from the legendary animated series cast made it one of the greatest superhero games. It won numerous 2011 Game of the Year awards."
+  },
+  {
+    "id": "game_145",
+    "title": "Dragon Age: Origins",
+    "developer": "BioWare",
+    "publisher": "Electronic Arts",
+    "release_date": "2009-11-03",
+    "platforms": [
+      "PC",
+      "PlayStation 3",
+      "Xbox 360",
+      "Mac"
+    ],
+    "genre": "Role-Playing Game",
+    "description": "Dragon Age: Origins is a dark fantasy RPG where the player character is recruited into the Grey Wardens and must unite fractious nations against a darkspawn Blight. Its tactical combat, extensive origin story system with six different starting narratives, and companion relationship depth made it BioWare's spiritual successor to Baldur's Gate. It received strong critical praise."
+  },
+  {
+    "id": "game_146",
+    "title": "Returnal",
+    "developer": "Housemarque",
+    "publisher": "Sony Interactive Entertainment",
+    "release_date": "2021-04-30",
+    "platforms": [
+      "PlayStation 5",
+      "PC"
+    ],
+    "genre": "Third-Person Shooter / Roguelike",
+    "description": "Returnal follows ASTRA corporation scout Selene crash-landing on the alien planet Atropos, trapped in a time loop that resets upon her death as she uncovers an increasingly disturbing mystery tied to her past. Its brutally challenging bullet-hell combat and procedural level design were designed specifically around the PS5 DualSense's haptics and adaptive triggers. It won Best Action Game at The Game Awards 2021."
+  },
+  {
+    "id": "game_147",
+    "title": "Street Fighter IV",
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "release_date": "2009-02-17",
+    "platforms": [
+      "Arcade",
+      "PC",
+      "PlayStation 3",
+      "Xbox 360",
+      "iOS",
+      "Android",
+      "PlayStation 4"
+    ],
+    "genre": "Fighting",
+    "description": "Street Fighter IV revived the fighting game genre after nearly a decade of declining interest, returning the series to 2D gameplay in a 3D rendered style with the Focus Attack mechanic for armor and counter attacks. Its accessibility for newcomers alongside depth for veterans rebuilt the competitive fighting game community. The EVO 2009 Grand Finals became one of esports' most legendary moments."
+  },
+  {
+    "id": "game_148",
+    "title": "Mortal Kombat 11",
+    "developer": "NetherRealm Studios",
+    "publisher": "Warner Bros. Interactive Entertainment",
+    "release_date": "2019-04-23",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox One",
+      "Xbox Series X/S",
+      "Nintendo Switch",
+      "Stadia"
+    ],
+    "genre": "Fighting",
+    "description": "Mortal Kombat 11 is the franchise's most polished entry with a time-traveling story mode involving Kronika reshaping history, the Krypt unlockable treasure exploration mode, and Custom Variation character builds for both casual and competitive players. Its extreme detailed fatality animations, roster of legacy and guest characters, and accessible tutorial made it the series' best-selling game."
+  },
+  {
+    "id": "game_149",
+    "title": "Red Dead Redemption",
+    "developer": "Rockstar San Diego",
+    "publisher": "Rockstar Games",
+    "release_date": "2010-05-18",
+    "platforms": [
+      "PlayStation 3",
+      "Xbox 360",
+      "PlayStation 4",
+      "PC",
+      "Nintendo Switch"
+    ],
+    "genre": "Action-Adventure",
+    "description": "Red Dead Redemption follows John Marston, a former outlaw blackmailed by federal agents to hunt down his old gang across the American-Mexican frontier in 1911. Its cinematic storytelling, attention to Western genre detail, and emotional finale made it one of the most critically celebrated games of its generation. It sold over 14 million copies."
+  },
+  {
+    "id": "game_150",
+    "title": "Subnautica",
+    "developer": "Unknown Worlds Entertainment",
+    "publisher": "Unknown Worlds Entertainment",
+    "release_date": "2018-01-23",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox One",
+      "Xbox Series X/S",
+      "Nintendo Switch",
+      "Mac"
+    ],
+    "genre": "Survival / Exploration",
+    "description": "Subnautica is an underwater survival game set on the ocean-covered planet 4546B after a spaceship crash, where players must explore increasingly deep and dangerous biomes to gather resources, build underwater bases, and uncover the planet's mysteries. Its alien ocean ecosystem design and the visceral fear of the deep made it one of survival gaming's most atmospheric experiences."
+  },
+  {
+    "id": "game_151",
+    "title": "Control",
+    "developer": "Remedy Entertainment",
+    "publisher": "505 Games",
+    "release_date": "2019-08-27",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox One",
+      "Xbox Series X/S",
+      "Nintendo Switch"
+    ],
+    "genre": "Third-Person Shooter / Action-Adventure",
+    "description": "Control follows Jesse Faden entering the brutalist Federal Bureau of Control to find her brother, discovering a Brutalist skyscraper frozen in time after a paranormal incursion. Telekinetic Service Weapon combat and the Alan Wake SCP-inspired setting of the Oldest House create a distinctive, award-winning experience. It won Best Art Direction at The Game Awards 2019."
+  },
+  {
+    "id": "game_152",
+    "title": "Monster Hunter Rise",
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "release_date": "2021-03-26",
+    "platforms": [
+      "Nintendo Switch",
+      "PC",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox One",
+      "Xbox Series X/S"
+    ],
+    "genre": "Action RPG",
+    "description": "Monster Hunter Rise introduced vertical mobility via the Wirebug grappling mechanic and Palamute dog companions alongside the traditional cat Palicoes, set in the Japanese-inspired Kamura Village. Its faster pacing and Switch Skill customization system offered a lighter alternative to World's realism. The game sold over 15 million copies."
+  },
+  {
+    "id": "game_153",
+    "title": "Diablo II",
+    "developer": "Blizzard North",
+    "publisher": "Blizzard Entertainment",
+    "release_date": "2000-06-29",
+    "platforms": [
+      "PC",
+      "Mac"
+    ],
+    "genre": "Action RPG",
+    "description": "Diablo II codified the action RPG loot genre with its seven acts, five character classes, and the addictive cycle of slaying demonic hordes for increasingly powerful randomized equipment. Its rune word crafting system and online PvP via Battle.net created one of gaming's longest-lasting competitive communities. A 2021 remaster, Resurrected, attracted over 30 million registered accounts."
+  },
+  {
+    "id": "game_154",
+    "title": "World of Warcraft",
+    "developer": "Blizzard Entertainment",
+    "publisher": "Blizzard Entertainment",
+    "release_date": "2004-11-23",
+    "platforms": [
+      "PC",
+      "Mac"
+    ],
+    "genre": "MMORPG",
+    "description": "World of Warcraft defined the massively multiplayer online RPG genre for over a decade, setting a peak of 12 million subscribers in 2010 as players explored the world of Azeroth through dungeons, raids, and PvP battlegrounds. Its quest structure, lore depth, and social infrastructure created gaming communities that persisted for years. It remains one of gaming's most culturally significant releases."
+  },
+  {
+    "id": "game_155",
+    "title": "StarCraft",
+    "developer": "Blizzard Entertainment",
+    "publisher": "Blizzard Entertainment",
+    "release_date": "1998-03-31",
+    "platforms": [
+      "PC",
+      "Mac",
+      "Nintendo 64"
+    ],
+    "genre": "Real-Time Strategy",
+    "description": "StarCraft established South Korean esports culture, with three asymmetric factions (Terran, Zerg, Protoss) offering deeply distinct playstyles in real-time strategy combat. The Brood War expansion turned StarCraft into a national sport in Korea watched by millions on cable television. It sold over 11 million copies and its competitive scene remains active 25+ years later."
+  },
+  {
+    "id": "game_156",
+    "title": "Age of Empires II: Definitive Edition",
+    "developer": "Ensemble Studios / Forgotten Empires",
+    "publisher": "Microsoft",
+    "release_date": "2019-11-14",
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "Xbox Series X/S",
+      "iOS",
+      "Android"
+    ],
+    "genre": "Real-Time Strategy",
+    "description": "Age of Empires II: Definitive Edition is the 4K remaster of the classic 1999 RTS, adding new civilizations, campaigns, and balance updates while preserving the original's design. Players build civilizations through five historical ages, gathering resources, training armies, and defeating rivals. The game revitalized a competitive scene that had persisted for 20 years."
+  },
+  {
+    "id": "game_157",
+    "title": "Civilization VI",
+    "developer": "Firaxis Games",
+    "publisher": "2K Games",
+    "release_date": "2016-10-21",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "Xbox One",
+      "Nintendo Switch",
+      "iOS",
+      "Android",
+      "Mac",
+      "Linux"
+    ],
+    "genre": "Turn-Based Strategy",
+    "description": "Civilization VI is the most expansive entry in the franchise, featuring district placement that spreads cities across tiles, a revamped tech/civics tree structure, and leaders with unique bonuses. Two major expansions (Rise and Fall, Gathering Storm) added climate change mechanics and government policies. It is Firaxis's fastest-selling Civilization game."
+  },
+  {
+    "id": "game_158",
+    "title": "Path of Exile",
+    "developer": "Grinding Gear Games",
+    "publisher": "Grinding Gear Games",
+    "release_date": "2013-10-23",
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "PlayStation 4"
+    ],
+    "genre": "Action RPG",
+    "description": "Path of Exile is a free-to-play action RPG with an enormous passive skill tree of over 1,300 nodes, randomized currency-based economy instead of gold, and league mechanics that reset the game economy every 3 months with new content. Its depth, free-to-play philosophy (no pay-to-win), and dedicated development team made it the dominant online ARPG for a decade."
+  },
+  {
+    "id": "game_159",
+    "title": "Left 4 Dead 2",
+    "developer": "Valve",
+    "publisher": "Valve",
+    "release_date": "2009-11-17",
+    "platforms": [
+      "PC",
+      "Xbox 360",
+      "Mac",
+      "Linux"
+    ],
+    "genre": "Co-op First-Person Shooter",
+    "description": "Left 4 Dead 2 is a co-operative zombie shooter where four survivors navigate through post-apocalyptic scenarios while an AI Director dynamically adjusts enemy spawns based on player performance. Its melee weapons, new special infected types, and southern US campaign settings improved on the original in every way. The game has an extraordinarily long-lived Steam community nearly 15 years after release."
+  },
+  {
+    "id": "game_160",
+    "title": "Pac-Man",
+    "developer": "Namco",
+    "publisher": "Namco / Midway",
+    "release_date": "1980-05-22",
+    "platforms": [
+      "Arcade",
+      "Atari 2600",
+      "ColecoVision",
+      "Multi-platform"
+    ],
+    "genre": "Maze Arcade",
+    "description": "Pac-Man is one of gaming's most iconic characters, guiding a yellow disc through mazes eating pellets while evading four colored ghosts that can be temporarily turned vulnerable by power pellets. Its simple, perfect game loop and distinctive characters made it the most successful arcade game of its era and a symbol of video game culture globally. The character remains recognizable worldwide."
+  },
+  {
+    "id": "game_161",
+    "title": "Doom (1993)",
+    "developer": "id Software",
+    "publisher": "GT Interactive Software",
+    "release_date": "1993-12-10",
+    "platforms": [
+      "PC",
+      "Mac",
+      "SNES",
+      "32X",
+      "3DO",
+      "PlayStation",
+      "Saturn",
+      "Game Boy Advance",
+      "Xbox",
+      "Multi-platform"
+    ],
+    "genre": "First-Person Shooter",
+    "description": "Doom created the first-person shooter genre as we know it, placing players in the boots of a space marine fighting demonic forces on Mars' moons with a diverse arsenal from shotguns to the BFG 9000. Its fast movement, level design, and multiplayer deathmatch mode defined the genre for decades. The game's distribution via shareware made it one of the most-installed PC games in history."
+  },
+  {
+    "id": "game_162",
+    "title": "Star Wars: Knights of the Old Republic",
+    "developer": "BioWare",
+    "publisher": "LucasArts",
+    "release_date": "2003-07-15",
+    "platforms": [
+      "Xbox",
+      "PC",
+      "iOS",
+      "Android",
+      "Nintendo Switch"
+    ],
+    "genre": "Role-Playing Game",
+    "description": "Knights of the Old Republic is set 4,000 years before the films in the Star Wars galaxy, following a Republic soldier who discovers a fateful connection to the Sith. BioWare's signature choice-driven narrative and party relationship systems applied to the Star Wars universe created one of the greatest licensed game tie-ins ever made. Its twist is among gaming's most celebrated."
+  },
+  {
+    "id": "game_163",
+    "title": "Planescape: Torment",
+    "developer": "Black Isle Studios",
+    "publisher": "Interplay Entertainment",
+    "release_date": "1999-12-12",
+    "platforms": [
+      "PC"
+    ],
+    "genre": "Role-Playing Game",
+    "description": "Planescape: Torment follows the Nameless One, an immortal amnesiac, through the bizarre planar city of Sigil collecting memories of his past incarnations while exploring the question 'What can change the nature of a man?' Its dialogue-heavy design, philosophical depth, and dismissal of conventional combat mechanics make it one of the most narratively ambitious games ever created."
+  },
+  {
+    "id": "game_164",
+    "title": "Assassin's Creed II",
+    "developer": "Ubisoft Montreal",
+    "publisher": "Ubisoft",
+    "release_date": "2009-11-17",
+    "platforms": [
+      "PlayStation 3",
+      "Xbox 360",
+      "PC",
+      "iOS",
+      "Mac"
+    ],
+    "genre": "Action-Adventure",
+    "description": "Assassin's Creed II followed Ezio Auditore da Firenze through Renaissance Italy on a revenge-fueled path that became a saga spanning three games, with Leonardo da Vinci's gadgets and a rich historical setting. Its vast improvement over the first game's repetitive structure made it a landmark sequel. Ezio became one of gaming's most beloved protagonists."
+  },
+  {
+    "id": "game_165",
+    "title": "The Witcher",
+    "developer": "CD Projekt Red",
+    "publisher": "Atari / CD Projekt",
+    "release_date": "2007-10-26",
+    "platforms": [
+      "PC",
+      "Mac"
+    ],
+    "genre": "Action RPG",
+    "description": "The original Witcher was CD Projekt Red's debut as a developer, adapting Andrzej Sapkowski's Polish fantasy novels with a morally grey adaptation of Geralt's early career. Its dice poker minigame, romance card system, and political intrigue helped define the studio's design philosophy. Despite modest commercial success, it led directly to one of gaming's greatest RPG series."
+  },
+  {
+    "id": "game_166",
+    "title": "Demon's Souls Remake",
+    "developer": "Bluepoint Games",
+    "publisher": "Sony Interactive Entertainment",
+    "release_date": "2020-11-12",
+    "platforms": [
+      "PlayStation 5"
+    ],
+    "genre": "Action RPG",
+    "description": "The Demon's Souls Remake is a faithful visual reconstruction of FromSoftware's 2009 PS3 game that originated the Soulslike formula, rebuilt from scratch with PS5 technology. The game's hub-and-spoke structure, punishing boss encounters, and unique World Tendency system were preserved exactly while every asset was remade. It served as the technical showcase for the PS5 launch."
+  },
+  {
+    "id": "game_167",
+    "title": "It Takes Two Spiritual Successor: A Way Out",
+    "developer": "Hazelight Studios",
+    "publisher": "Electronic Arts",
+    "release_date": "2018-03-23",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "Xbox One"
+    ],
+    "genre": "Action-Adventure / Co-op",
+    "description": "A Way Out is a strictly two-player co-op prison break game following Leo and Vincent as they escape from prison and attempt to clear their names, designed by Josef Fares who founded Hazelight Studios specifically to make games that only work in co-op. Its cinematic set-pieces, variety of game modes, and heartfelt story were widely praised. It led directly to Hazelight making It Takes Two."
+  },
+  {
+    "id": "game_168",
+    "title": "The House in Fata Morgana",
+    "developer": "Novectacle",
+    "publisher": "MangaGamer",
+    "release_date": "2012-06-01",
+    "platforms": [
+      "PC",
+      "PlayStation Vita",
+      "Nintendo Switch",
+      "PlayStation 4",
+      "iOS"
+    ],
+    "genre": "Visual Novel",
+    "description": "The House in Fata Morgana is a gothic visual novel spanning centuries, following a spirit guided through a cursed mansion's history by a mysterious Maid. Its operatic score, emotionally devastating narrative, and stunning hand-painted art make it one of the highest-rated visual novels ever created. It frequently appears on lists of the greatest video games despite the relatively niche format."
+  },
+  {
+    "id": "game_169",
+    "title": "Factorio",
+    "developer": "Wube Software",
+    "publisher": "Wube Software",
+    "release_date": "2020-08-14",
+    "platforms": [
+      "PC",
+      "Mac",
+      "Linux"
+    ],
+    "genre": "Strategy / Simulation",
+    "description": "Factorio is a factory-building and automation game where players crash-land on an alien planet and must build an ever-expanding industrial complex to launch a rocket home. Its deep automation logic, pollution and alien attack systems, and the optimization challenge of scaling production define one of gaming's most technically demanding and rewarding experiences. It holds the highest user rating on Steam of any game with over 100,000 reviews."
+  },
+  {
+    "id": "game_170",
+    "title": "Satisfactory",
+    "developer": "Coffee Stain Studios",
+    "publisher": "Coffee Stain Studios",
+    "release_date": "2020-09-01",
+    "platforms": [
+      "PC"
+    ],
+    "genre": "Factory Building / First-Person",
+    "description": "Satisfactory is a first-person factory building game set on an alien planet, with Coffee Stain's signature visual presentation and co-op support for up to four players. Its first-person perspective made resource gathering and factory construction more tactile than top-down competitors. The game attracted over 4 million players during early access."
+  },
+  {
+    "id": "game_171",
+    "title": "Into the Breach",
+    "developer": "Subset Games",
+    "publisher": "Subset Games",
+    "release_date": "2018-02-27",
+    "platforms": [
+      "PC",
+      "Nintendo Switch",
+      "iOS",
+      "Mac",
+      "Linux"
+    ],
+    "genre": "Turn-Based Strategy",
+    "description": "Into the Breach is a perfectly designed turn-based strategy game where three mechs combat Vek insect aliens in compact 8x8 grids with complete information about every enemy action. Its focus on puzzle-like decision making rather than randomized chance makes every defeat feel earned and every victory satisfying. Designers of FTL, it demonstrates extreme restraint and polish."
+  },
+  {
+    "id": "game_172",
+    "title": "Shovel Knight",
+    "developer": "Yacht Club Games",
+    "publisher": "Yacht Club Games",
+    "release_date": "2014-06-26",
+    "platforms": [
+      "PC",
+      "Nintendo Switch",
+      "PlayStation 4",
+      "Xbox One",
+      "3DS",
+      "Wii U",
+      "PS Vita",
+      "iOS",
+      "Android"
+    ],
+    "genre": "Platformer",
+    "description": "Shovel Knight is a love letter to NES-era platformers, following the titular shovel-wielding knight to rescue his companion Shield Knight from the Tower of Fate. Its meticulous 8-bit aesthetic, tight controls, and multiple campaigns by different knight characters made it one of indie gaming's defining successes. It sold over 3 million copies."
+  },
+  {
+    "id": "game_173",
+    "title": "Final Fantasy VI",
+    "developer": "Square",
+    "publisher": "Square",
+    "release_date": "1994-04-02",
+    "platforms": [
+      "SNES",
+      "PlayStation",
+      "Game Boy Advance",
+      "PC",
+      "iOS",
+      "Android",
+      "Switch",
+      "PlayStation 4"
+    ],
+    "genre": "Role-Playing Game",
+    "description": "Final Fantasy VI is widely regarded as the pinnacle of 16-bit JRPG design, with 14 playable characters, an opera house scene using the SNES sound chip as orchestra, and a villain, Kefka, who actually achieves his goal of destroying the world halfway through the game. Its episodic World of Ruin structure and lack of a single main protagonist were revolutionary for the era. It is frequently cited as one of the greatest games ever made."
+  },
+  {
+    "id": "game_174",
+    "title": "Baldur's Gate",
+    "developer": "BioWare",
+    "publisher": "Interplay Entertainment",
+    "release_date": "1998-12-21",
+    "platforms": [
+      "PC",
+      "Mac",
+      "iOS",
+      "Android"
+    ],
+    "genre": "Role-Playing Game",
+    "description": "Baldur's Gate adapted the Advanced Dungeons & Dragons 2nd edition ruleset into a real-time-with-pause RPG with an enormous Forgotten Realms map and party-based adventure. It established BioWare as the premier Western RPG studio and influenced virtually every CRPG that followed. The series culminated in Baldur's Gate 3, released 25 years later."
+  },
+  {
+    "id": "game_175",
+    "title": "System Shock 2",
+    "developer": "Irrational Games / Looking Glass Studios",
+    "publisher": "Electronic Arts",
+    "release_date": "1999-08-11",
+    "platforms": [
+      "PC"
+    ],
+    "genre": "First-Person Action RPG",
+    "description": "System Shock 2 follows a soldier awakening aboard the Von Braun spacecraft to find it overrun by alien-mutated creatures under the control of the rogue AI SHODAN. Its hybrid FPS-RPG systems, inventory management, and the genuinely terrifying presence of SHODAN created a template for immersive sim design. It directly influenced BioShock, which creator Ken Levine made as a spiritual successor."
+  },
+  {
+    "id": "game_176",
+    "title": "Ori and the Blind Forest",
+    "developer": "Moon Studios",
+    "publisher": "Microsoft Studios",
+    "release_date": "2015-03-11",
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "genre": "Platformer",
+    "description": "Ori and the Blind Forest is a visually stunning action platformer set in the dying forest of Nibel, following the spirit Ori to restore the light that keeps the forest alive. Its hand-painted watercolor art, orchestral score, and Soul Link save mechanic were universally praised. The game led to a sequel, Ori and the Will of the Wisps, in 2020."
+  },
+  {
+    "id": "game_177",
+    "title": "Dead Cells",
+    "developer": "Motion Twin",
+    "publisher": "Motion Twin",
+    "release_date": "2018-08-07",
+    "platforms": [
+      "PC",
+      "Nintendo Switch",
+      "PlayStation 4",
+      "Xbox One",
+      "iOS",
+      "Android",
+      "Mac",
+      "Linux"
+    ],
+    "genre": "Action Roguelike / Metroidvania",
+    "description": "Dead Cells is a roguelike Metroidvania with procedurally arranged levels where a failed alchemy experiment must escape a diseased island through increasingly difficult biomes. Its fluid melee and ranged combat, large variety of buildable weapon synergies, and consistent updates kept it one of indie gaming's most active titles. The game sold over 10 million copies."
+  },
+  {
+    "id": "game_178",
+    "title": "Sekiro's Return: Elden Ring Shadow of the Erdtree",
+    "developer": "FromSoftware",
+    "publisher": "Bandai Namco Entertainment",
+    "release_date": "2024-06-21",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox One",
+      "Xbox Series X/S"
+    ],
+    "genre": "Action RPG",
+    "description": "Elden Ring: Shadow of the Erdtree is the sole expansion for Elden Ring, set in the divine realm of the Shadow Lands with a new golden legacy dungeon, 10 new boss encounters, and 100+ new equipment pieces. At launch, it broke records as the fastest-selling DLC in FromSoftware history. Critics called it equivalent in scope to a standalone game."
+  },
+  {
+    "id": "game_179",
+    "title": "Alan Wake 2",
+    "developer": "Remedy Entertainment",
+    "publisher": "Epic Games Publishing",
+    "release_date": "2023-10-27",
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series X/S"
+    ],
+    "genre": "Survival Horror / Action-Adventure",
+    "description": "Alan Wake 2 is the long-awaited sequel following novelist Alan Wake still trapped in the Dark Place 13 years after the first game, while FBI agent Saga Anderson investigates ritualistic murders in Bright Falls. Remedy's most ambitious production with live-action musical numbers and dual playable protagonists. It won Best Narrative at The Game Awards 2023."
+  },
+  {
+    "id": "game_180",
+    "title": "Vampire Survivors",
+    "developer": "poncle",
+    "publisher": "poncle",
+    "release_date": "2022-10-20",
+    "platforms": [
+      "PC",
+      "Nintendo Switch",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox One",
+      "Xbox Series X/S",
+      "iOS",
+      "Android",
+      "Mac"
+    ],
+    "genre": "Bullet Heaven / Roguelike",
+    "description": "Vampire Survivors is a minimal-input auto-attacking bullet-heaven roguelike where characters automatically fire weapons that level up over a 30-minute survival run against escalating monster hordes. Created by a single developer, it launched the 'bullet heaven' genre at $3 and became one of Steam's most-played games. Its addictive progression loop and extensive content created a devoted fanbase."
+  },
+  {
+    "id": "game_181",
+    "title": "Palworld",
+    "developer": "Pocket Pair",
+    "publisher": "Pocket Pair",
+    "release_date": "2024-01-19",
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "Xbox Series X/S"
+    ],
+    "genre": "Survival / Creature Collector",
+    "description": "Palworld is a creature-collecting survival crafting game where players and Pokemon-like 'Pals' work, fight, and build together in an open world. Its early access launch generated enormous controversy and attention for its similarities to Nintendo franchises while offering gameplay Nintendo's titles do not. It sold over 25 million copies in its first month, setting Steam sales records."
+  },
+  {
+    "id": "game_182",
+    "title": "Stray",
+    "developer": "BlueTwelve Studio",
+    "publisher": "Annapurna Interactive",
+    "release_date": "2022-07-19",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox One",
+      "Xbox Series X/S"
+    ],
+    "genre": "Action-Adventure",
+    "description": "Stray is a third-person adventure game where players control a stray cat navigating a cyberpunk city populated only by robots, solving puzzles and making companions while searching for a way home. Its unique feline perspective and attention to cat-specific animations were universally charming. It became the most wishlisted PS Plus game ever at launch."
+  },
+  {
+    "id": "game_183",
+    "title": "Sifu",
+    "developer": "Sloclap",
+    "publisher": "Sloclap",
+    "release_date": "2022-02-08",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox One",
+      "Xbox Series X/S",
+      "Nintendo Switch"
+    ],
+    "genre": "Beat 'em Up / Action",
+    "description": "Sifu is a third-person brawler where a martial arts student hunts the killers of his father, aging years with each death and losing permanent upgrades if they age too far. Its parry-focused kung fu combat and authentic Hong Kong martial arts aesthetic were praised for skill-based depth. It drew widespread attention for its demanding but fair aging mechanic."
+  },
+  {
+    "id": "game_184",
+    "title": "Hi-Fi RUSH",
+    "developer": "Tango Gameworks",
+    "publisher": "Bethesda Softworks",
+    "release_date": "2023-01-25",
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "Xbox Series X/S",
+      "PlayStation 5"
+    ],
+    "genre": "Action / Rhythm",
+    "description": "Hi-Fi RUSH is a rhythm action game where everything in the world pulses to the beat, and Chai, a wannabe rockstar with a music player fused to his chest, fights corporate robots across colorful cel-shaded stages. Its surprise Game Pass launch without prior announcement and infectious energy made it a viral hit. It won Best Action Game at The Game Awards 2023."
+  },
+  {
+    "id": "game_185",
+    "title": "Tunic",
+    "developer": "Andrew Shouldice",
+    "publisher": "Finji",
+    "release_date": "2022-03-16",
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "Xbox Series X/S",
+      "Nintendo Switch",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Mac"
+    ],
+    "genre": "Action-Adventure",
+    "description": "Tunic is an isometric action-adventure starring a small fox in a world without instructions, where collectible manual pages written in a fictional language gradually reveal the game's mechanics and secrets. Its Zelda-like exploration, brutal boss encounters, and the puzzle of reconstructing an in-game instruction manual created one of 2022's most memorable adventures. It sold over 500,000 copies."
+  },
+  {
+    "id": "game_186",
+    "title": "Pentiment",
+    "developer": "Obsidian Entertainment",
+    "publisher": "Xbox Game Studios",
+    "release_date": "2022-11-15",
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "Xbox Series X/S",
+      "Nintendo Switch"
+    ],
+    "genre": "Adventure / Narrative RPG",
+    "description": "Pentiment is a narrative-driven adventure set in a 16th century Bavarian abbey, rendered in a hand-illuminated manuscript style, where illustrator Andreas Maler must solve a murder mystery across 25 years of his life. Director Josh Sawyer's obsessive historical research created one of gaming's most authentic period settings. It is among the most critically acclaimed Game Pass titles."
+  },
+  {
+    "id": "game_187",
+    "title": "Lies of P",
+    "developer": "Neowiz",
+    "publisher": "Neowiz",
+    "release_date": "2023-09-19",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox One",
+      "Xbox Series X/S"
+    ],
+    "genre": "Action RPG / Soulslike",
+    "description": "Lies of P is a Soulslike set in a Pinocchio-inspired Belle Epoque world where the puppet P must navigate a city overrun by mad automatons to find Geppetto. Its precise parry system, weapon assembly customization, and the narrative conceit of lies granting power received strong critical reception. It became the highest-rated Soulslike not made by FromSoftware."
+  },
+  {
+    "id": "game_188",
+    "title": "Dave the Diver",
+    "developer": "MINTROCKET",
+    "publisher": "Nexon",
+    "release_date": "2023-06-28",
+    "platforms": [
+      "PC",
+      "Nintendo Switch",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Mac"
+    ],
+    "genre": "Adventure / Management",
+    "description": "Dave the Diver combines free-diving exploration and spearfishing in the day with sushi restaurant management at night, as the eponymous Dave uncovers undersea mysteries in a Blue Hole. Its variety, charming art style, and bite-sized session design made it a surprise Game of the Year contender. It won Best Debut Indie Game at The Game Awards 2023."
+  },
+  {
+    "id": "game_189",
+    "title": "Armored Core VI: Fires of Rubicon",
+    "developer": "FromSoftware",
+    "publisher": "Bandai Namco Entertainment",
+    "release_date": "2023-08-25",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox One",
+      "Xbox Series X/S"
+    ],
+    "genre": "Action / Mech Simulation",
+    "description": "Armored Core VI revived the long-dormant mech series with FromSoftware's combat design philosophy applied to aerial and ground-based giant robot combat. Players custom-assemble mechs from hundreds of parts to tackle dense, multi-phase boss encounters and arena battles. The game attracted both longtime AC fans and new players drawn in by FromSoftware's post-Elden Ring reputation."
+  },
+  {
+    "id": "game_190",
+    "title": "Final Fantasy VII Remake",
+    "developer": "Square Enix Business Division 1",
+    "publisher": "Square Enix",
+    "release_date": "2020-04-10",
+    "platforms": [
+      "PlayStation 4",
+      "PlayStation 5",
+      "PC",
+      "Xbox Series X/S"
+    ],
+    "genre": "Action RPG",
+    "description": "Final Fantasy VII Remake retells and expands the first portion of the 1997 classic — Midgar — into a full 40-hour game with real-time combat blending character switching and turn-based ATB mechanics. Its narrative expansion recontextualizes the original's story while keeping the iconic Midgar setting and characters. The Intergrade expansion added a Yuffie episode for PS5."
+  },
+  {
+    "id": "game_191",
+    "title": "God of War III",
+    "developer": "Santa Monica Studio",
+    "publisher": "Sony Computer Entertainment",
+    "release_date": "2010-03-16",
+    "platforms": [
+      "PlayStation 3",
+      "PlayStation 4"
+    ],
+    "genre": "Action-Adventure",
+    "description": "God of War III marked the climax of Kratos' war against the Olympian gods, opening with a sweeping assault on Mount Olympus and culminating in battles against Hermes, Hercules, Hephaestus, and Zeus. Its visual scale was unprecedented for PS3, with individual enemy bosses as large as entire levels. The game sold over 5 million copies."
+  },
+  {
+    "id": "game_192",
+    "title": "Uncharted 4: A Thief's End",
+    "developer": "Naughty Dog",
+    "publisher": "Sony Interactive Entertainment",
+    "release_date": "2016-05-10",
+    "platforms": [
+      "PlayStation 4",
+      "PC"
+    ],
+    "genre": "Action-Adventure",
+    "description": "Uncharted 4 brings Nathan Drake out of retirement to search for Libertalia, a mythical pirate utopia, alongside his long-lost brother Sam. The game expanded exploration with open-ended Madagascar driving sections and rope swinging, while delivering a mature, emotionally resonant conclusion to the Drake story. It was widely recognized as one of 2016's best games."
+  },
+  {
+    "id": "game_193",
+    "title": "The Last of Us Part II",
+    "developer": "Naughty Dog",
+    "publisher": "Sony Interactive Entertainment",
+    "release_date": "2020-06-19",
+    "platforms": [
+      "PlayStation 4",
+      "PlayStation 5"
+    ],
+    "genre": "Action-Adventure",
+    "description": "The Last of Us Part II follows Ellie on a brutal revenge quest in a post-pandemic America while exploring themes of trauma, moral relativism, and cycles of violence through dual protagonists with opposing perspectives. Its divisive narrative structure was praised for ambition and condemned for emotional manipulation in equal measure. It won Game of the Year at The Game Awards 2020."
+  },
+  {
+    "id": "game_194",
+    "title": "Gran Turismo 7",
+    "developer": "Polyphony Digital",
+    "publisher": "Sony Interactive Entertainment",
+    "release_date": "2022-03-04",
+    "platforms": [
+      "PlayStation 4",
+      "PlayStation 5"
+    ],
+    "genre": "Racing Simulation",
+    "description": "Gran Turismo 7 is the franchise's celebration of automotive culture with over 400 cars, the Music Rally experience, and the GT Café world-travel narrative connecting car acquisition to history. Its PS5 version demonstrated ray-traced reflections in real-time on race cars at 60fps. Despite controversy over microtransaction pricing adjustments post-launch, its core driving physics received universal praise."
+  },
+  {
+    "id": "game_195",
+    "title": "Like a Dragon: Ishin!",
+    "developer": "Ryu Ga Gotoku Studio",
+    "publisher": "Sega",
+    "release_date": "2023-02-21",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox One",
+      "Xbox Series X/S"
+    ],
+    "genre": "Action-Adventure / Beat 'em Up",
+    "description": "Like a Dragon: Ishin! is a Bakumatsu-era remake set during Japan's 1860s political revolution, with Yakuza characters reimagined as historical figures. Combat mixes swords, guns, and fists across four fighting styles. Previously Japan-exclusive, its 2023 Western release introduced a beloved side-story game to new audiences."
+  },
+  {
+    "id": "game_196",
+    "title": "Cyberpunk 2077: Phantom Liberty",
+    "developer": "CD Projekt Red",
+    "publisher": "CD Projekt",
+    "release_date": "2023-09-26",
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series X/S"
+    ],
+    "genre": "Action RPG",
+    "description": "Phantom Liberty is the sole expansion for Cyberpunk 2077, set in the new district of Dogtown where V is recruited by the president of the New United States of America for a spy thriller infiltration. Its improved writing, new radio station, and the Relic skill tree convinced many who had written off the base game to return. It won Best Expansion at The Game Awards 2023."
+  },
+  {
+    "id": "game_197",
+    "title": "Baldur's Gate II: Shadows of Amn",
+    "developer": "BioWare",
+    "publisher": "Interplay Entertainment",
+    "release_date": "2000-09-21",
+    "platforms": [
+      "PC",
+      "Mac"
+    ],
+    "genre": "Role-Playing Game",
+    "description": "Baldur's Gate II expanded its predecessor's scope with a richer city setting in Athkatla, deeper companion quests, and the pursuit of the sinister mage Irenicus across multiple planes. It is frequently cited alongside Planescape: Torment as the pinnacle of CRPG writing. The companion Jon Irenicus is considered one of gaming's greatest villains."
+  },
+  {
+    "id": "game_198",
+    "title": "Xenoblade Chronicles 3",
+    "developer": "Monolith Soft",
+    "publisher": "Nintendo",
+    "release_date": "2022-07-29",
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "genre": "Role-Playing Game",
+    "description": "Xenoblade Chronicles 3 combines characters from both prior games in a world where war is endless and life lasts only 10 years, following Noah and Mio from opposing factions who join forces. Its six-character party system, class-swapping mechanics, and ambitious 100+ hour narrative were praised as the series' creative peak. The expansion Future Redeemed provided a satisfying trilogy conclusion."
+  },
+  {
+    "id": "game_199",
+    "title": "Dragon's Dogma 2",
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "release_date": "2024-03-22",
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series X/S"
+    ],
+    "genre": "Action RPG",
+    "description": "Dragon's Dogma 2 is the long-awaited sequel featuring a living open world in the twin realms of Vernworth and Battahl, where pawns — AI companions shareable between players — guide and assist the Arisen in monster hunts. Its emergent encounter design, where large monsters and NPCs react dynamically to each other, created uniquely memorable moments. Director Hideaki Itsuno called it the game he always wanted to make."
+  },
+  {
+    "id": "game_200",
+    "title": "Persona 4 Golden",
+    "developer": "Atlus",
+    "publisher": "Atlus / Deep Silver",
+    "release_date": "2012-06-14",
+    "platforms": [
+      "PlayStation Vita",
+      "PC",
+      "PlayStation 4",
+      "Xbox One",
+      "Xbox Series X/S",
+      "Nintendo Switch"
+    ],
+    "genre": "Role-Playing Game",
+    "description": "Persona 4 Golden is an expanded version of Persona 4 set in the rural town of Inaba, where a group of high schoolers investigate murders connected to a mysterious Midnight Channel TV world. Its warm, nostalgic tone, exceptional cast of Social Link characters, and polished dungeon crawling made it the definitive entry in the pre-P5 era. The PC release introduced the franchise to a new generation."
+  },
+  {
+    "id": "game_201",
+    "title": "Fire Emblem: Awakening",
+    "developer": "Intelligent Systems",
+    "publisher": "Nintendo",
+    "release_date": "2012-04-19",
+    "platforms": [
+      "Nintendo 3DS"
+    ],
+    "genre": "Tactical RPG",
+    "description": "Fire Emblem: Awakening revived the series after below-target sales of previous entries with a pair system allowing units to combine forces, a classic/casual mode to remove permadeath, and an expanded social simulation in My Castle. Its success spawned the modern era of Fire Emblem popularity and led to the mobile game Heroes. The game sold over 2 million copies worldwide."
+  },
+  {
+    "id": "game_202",
+    "title": "Death Stranding",
+    "developer": "Kojima Productions",
+    "publisher": "Sony Interactive Entertainment / 505 Games",
+    "release_date": "2019-11-08",
+    "platforms": [
+      "PlayStation 4",
+      "PC",
+      "PlayStation 5",
+      "Xbox Series X/S"
+    ],
+    "genre": "Action / Delivery Game",
+    "description": "Death Stranding is Hideo Kojima's first post-Konami game, following Sam Bridges delivering packages across a post-apocalyptic America to reconnect isolated settlements, with cooperative infrastructure building shared between players online. Its slow-paced meditative gameplay and star-studded cast (Norman Reedus, Mads Mikkelsen, Guillermo del Toro) divided audiences. The Director's Cut added combat-focused content."
+  },
+  {
+    "id": "game_203",
+    "title": "Super Mario Bros. Wonder",
+    "developer": "Nintendo EPD",
+    "publisher": "Nintendo",
+    "release_date": "2023-10-20",
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "genre": "Platformer",
+    "description": "Super Mario Bros. Wonder is the first new 2D Mario since New Super Mario Bros. U in 2012, featuring Wonder Flowers that transform stages in unpredictable ways and a fresh badge system offering character modifications. Its vibrant personality, surprise transformations, and return to adventurous 2D design after a decade were universally celebrated. It sold over 13 million copies in its first year."
+  },
+  {
+    "id": "game_204",
+    "title": "Pokemon Legends: Arceus",
+    "developer": "Game Freak",
+    "publisher": "Nintendo / The Pokemon Company",
+    "release_date": "2022-01-28",
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "genre": "Action RPG",
+    "description": "Pokemon Legends: Arceus is a departure from the mainline formula, set in the historical Hisui region (ancient Sinnoh) where players join the Galaxy Expedition Team to create the first-ever Pokedex by catching wild Pokemon in an action-based open-area structure. Its bold redesign of catching mechanics and focus on historical world-building made it a fresh reinvention of the franchise."
+  },
+  {
+    "id": "game_205",
+    "title": "Kirby and the Forgotten Land",
+    "developer": "HAL Laboratory",
+    "publisher": "Nintendo",
+    "release_date": "2022-03-25",
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "genre": "Platformer",
+    "description": "Kirby and the Forgotten Land is the series' first fully 3D platformer, following Kirby exploring a post-apocalyptic land of overgrown urban ruins where a shadowy beast army has kidnapped Waddle Dees. The Mouthful Mode ability to inhale and partially swallow objects like cars and vending machines was inventively used throughout level design. It sold over 6 million copies."
+  },
+  {
+    "id": "game_206",
+    "title": "Splatoon 3",
+    "developer": "Nintendo EPD",
+    "publisher": "Nintendo",
+    "release_date": "2022-09-09",
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "genre": "Third-Person Shooter",
+    "description": "Splatoon 3 is the third entry in Nintendo's ink-based multiplayer shooter franchise, set in the post-apocalyptic Splatlands region with new Splatoon-exclusive weapons, the Tableturf Battle card minigame, and an expanded Salmon Run co-op mode. Its Anarchy Battles competitive ranked mode, continuous seasonal updates, and Splatfest events kept the playerbase highly active. The game sold over 13 million copies."
+  },
+  {
+    "id": "game_207",
+    "title": "Bayonetta",
+    "developer": "PlatinumGames",
+    "publisher": "Nintendo / Sega",
+    "release_date": "2010-01-07",
+    "platforms": [
+      "PlayStation 3",
+      "Xbox 360",
+      "Wii U",
+      "Nintendo Switch",
+      "PC"
+    ],
+    "genre": "Action",
+    "description": "Bayonetta follows a witch of the same name who has lost her memories and must fight against angelic forces using Bullet Arts (guns attached to her feet and hands simultaneously) and time-slowing Witch Time dodges. Director Hideki Kamiya's signature stylish action system peaked here with the most fluid, expressive combat in the genre. The series is published by Nintendo as an exclusive after Sega sold the IP."
+  },
+  {
+    "id": "game_208",
+    "title": "Pikmin 4",
+    "developer": "Nintendo EPD",
+    "publisher": "Nintendo",
+    "release_date": "2023-07-21",
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "genre": "Real-Time Strategy",
+    "description": "Pikmin 4 revitalized the series with a canine companion Oatchi, a robust cave system replacing Pikmin 3's aerial approach, and a new Blue Onion Pikmin type. Its expanded Dandori challenges and Night Mode offering a new asymmetric gameplay perspective gave both newcomers and veterans substantial new content. It sold over 3 million copies, the series' best launch."
+  },
+  {
+    "id": "game_209",
+    "title": "Metroid Prime 2: Echoes",
+    "developer": "Retro Studios",
+    "publisher": "Nintendo",
+    "release_date": "2004-11-15",
+    "platforms": [
+      "GameCube",
+      "Wii"
+    ],
+    "genre": "First-Person Adventure",
+    "description": "Metroid Prime 2: Echoes is set on the ravaged planet Aether, split between a light world and a corrupted Dark Aether mirror dimension, where Samus must recover stolen Ing energy while defeating Dark Samus. Its dual-world design and ammo system added resource management to the Prime formula. The multiplayer mode was the series' first foray into competitive play."
+  },
+  {
+    "id": "game_210",
+    "title": "Super Mario RPG",
+    "developer": "Square / Nintendo EAD",
+    "publisher": "Nintendo",
+    "release_date": "1996-03-09",
+    "platforms": [
+      "SNES",
+      "Nintendo Switch"
+    ],
+    "genre": "Role-Playing Game",
+    "description": "Super Mario RPG: Legend of the Seven Stars was the result of a unique collaboration between Nintendo and Square, merging Mario's platforming sensibility with Final Fantasy's turn-based combat to create a warmly beloved adventure. Its timing-based Action Commands, vivid characters, and Smithy as a memorable villain made it an enduring classic. A 2023 Switch remake introduced it to new players."
   }
 ]

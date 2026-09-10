@@ -1,16 +1,16 @@
 # UdaPlay
 
-RAG + agent over a curated video game dataset. Two-notebook Udacity capstone.
+RAG pipeline and stateful tool-calling agent over a 210-game dataset. Udacity *Building AI Agents* capstone - two notebooks.
 
 ## Decision flow
 
 ```
 retrieve_game
-    └─ ChromaDB semantic search over 25 game records (in-memory, rebuilt per session)
+    +- ChromaDB semantic search over 210 game records (in-memory, rebuilt per session)
 evaluate_retrieval
-    └─ LLM returns JSON: { confidence_score, is_sufficient, reasoning }
-    ├─ score ≥ 0.7: compose answer, cite [Internal DB]
-    └─ score < 0.7: game_web_search → Tavily → compose answer, cite [Web Search]
+    +- LLM returns JSON: { confidence_score, is_sufficient, reasoning }
+    |- score >= 0.7: compose answer, cite [Internal DB]
+    +- score < 0.7: game_web_search -> Tavily -> compose answer, cite [Web Search]
 ```
 
 ## Components
@@ -21,9 +21,10 @@ evaluate_retrieval
 | `Udaplay_02_solution_project.ipynb` | Agent: tool orchestration, session memory |
 | `test_agent.py` | CLI runner, accepts free text or JSON |
 | `init.py` | Installs deps, validates API keys |
-| `games.json` | 25 game records, 2013-2023 |
+| `games.json` | 210 game records, 1978-2024 |
 | `lib/loaders.py` | Extended: `JSONGameLoader` |
 | `lib/vector_db.py` | Extended: `api_base` proxy support, `load_json()` |
+| `lib/llm_claude.py` | Anthropic backend: drop-in `LLM` replacement |
 
 ## Setup
 
@@ -34,23 +35,23 @@ cp config.env.template config.env
 
 `config.env` keys:
 
-| Key | Where to get it |
-|-----|----------------|
-| `OPENAI_API_KEY` | Udacity workspace env (Vocareum) or platform.openai.com |
-| `TAVILY_API_KEY` | tavily.com — free tier, 1000 req/month |
+| Key | Source |
+|-----|--------|
+| `OPENAI_API_KEY` | Udacity workspace (Vocareum) or platform.openai.com |
+| `TAVILY_API_KEY` | tavily.com - free tier, 1000 req/month |
 | `OPENAI_BASE_URL` | `https://openai.vocareum.com/v1` (workspace) or `https://api.openai.com/v1` (direct) |
-| `ANTHROPIC_API_KEY` | console.anthropic.com — fallback if no OpenAI key |
+| `ANTHROPIC_API_KEY` | console.anthropic.com - fallback when no OpenAI key |
 
-Backend selection priority: OpenAI if `OPENAI_API_KEY` is set, else Claude if `ANTHROPIC_API_KEY` is set.
+Backend priority: OpenAI if `OPENAI_API_KEY` is set; Claude if only `ANTHROPIC_API_KEY` is set.
 
 ## Embeddings
 
 | Mode | Trigger | Requires |
 |------|---------|---------|
 | OpenAI `text-embedding-ada-002` | `OPENAI_API_KEY` set | Vocareum or direct OpenAI key |
-| Local `onnxruntime` (MiniLM-L6-v2) | Claude mode or no OpenAI key | `pip install onnxruntime` |
+| Local `onnxruntime` MiniLM-L6-v2 | Claude mode or no OpenAI key | `pip install onnxruntime` |
 
-## CLI usage
+## CLI
 
 ```bash
 python test_agent.py
@@ -61,6 +62,6 @@ python test_agent.py '{"query": "Which of their games has the most DLC?", "sessi
 
 ## Dataset
 
-25 records across: open world RPG, action-adventure, sports, FPS, battle royale, life sim, social deduction. Notable titles: GTA V, The Witcher 3, Elden Ring, Cyberpunk 2077, RDR2, Zelda BotW, Baldur's Gate 3.
+210 records, 1978-2024. Sources: Wikipedia best-sellers, Metacritic/OpenCritic top-rated, Steam peak player counts. Genres: action RPG, platformer, FPS, MOBA, survival, roguelike, fighting, JRPG, RTS, life sim.
 
-Schema per record: `id`, `title`, `developer`, `publisher`, `release_date`, `platforms[]`, `genre`, `description`.
+Schema: `id`, `title`, `developer`, `publisher`, `release_date`, `platforms[]`, `genre`, `description`.

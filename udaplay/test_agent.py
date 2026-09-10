@@ -74,7 +74,7 @@ def retrieve_game(query: str) -> str:
     Search the internal game database for video game information.
     ALWAYS call this tool first before any other source.
 
-    Source: Internal ChromaDB — 25 curated game records (2013–2023).
+    Source: Internal ChromaDB — 210 game records (1978–2024).
 
     args:
         query (str): Natural-language search query about a game, developer,
