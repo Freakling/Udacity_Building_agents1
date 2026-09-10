@@ -1,38 +1,53 @@
 """
-Quick smoke-test: run UdaPlay against the open-world game research query.
+UdaPlay smoke-test — auto-selects backend based on available API keys.
 
-Usage (from the udaplay/ directory):
+  ANTHROPIC_API_KEY set  →  uses Claude (Anthropic) + local embeddings (free, no OpenAI key needed)
+  OPENAI_API_KEY set     →  uses GPT-4o-mini + OpenAI embeddings (Vocareum proxy or direct)
+
+Run from the udaplay/ directory:
     python test_agent.py
 
-Requires config.env with OPENAI_API_KEY, TAVILY_API_KEY, and optionally
-OPENAI_BASE_URL (defaults to https://openai.vocareum.com/v1).
+Keys are loaded from config.env.
 """
 
 import importlib.util
 import sys
 import os
 import json
-from typing import List
 
-# ── Udacity workspace sqlite3 shim ──────────────────────────────────────────
+# Udacity workspace sqlite3 shim
 if importlib.util.find_spec("pysqlite3") is not None:
     import pysqlite3
     sys.modules["sqlite3"] = sys.modules.pop("pysqlite3")
 
 from dotenv import load_dotenv
-
 load_dotenv("config.env")
 
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
-OPENAI_BASE_URL = os.getenv("OPENAI_BASE_URL", "https://openai.vocareum.com/v1")
+OPENAI_API_KEY  = os.getenv("OPENAI_API_KEY")
+OPENAI_BASE_URL = os.getenv("OPENAI_BASE_URL", "https://api.openai.com/v1")
+ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY")
+TAVILY_API_KEY  = os.getenv("TAVILY_API_KEY")
 
-assert OPENAI_API_KEY, "Set OPENAI_API_KEY in config.env"
-assert os.getenv("TAVILY_API_KEY"), "Set TAVILY_API_KEY in config.env"
+assert TAVILY_API_KEY, "Set TAVILY_API_KEY in config.env"
+assert ANTHROPIC_API_KEY or OPENAI_API_KEY, (
+    "Set either ANTHROPIC_API_KEY (Claude) or OPENAI_API_KEY (OpenAI) in config.env"
+)
+
+USE_CLAUDE = bool(ANTHROPIC_API_KEY)
+
+if USE_CLAUDE:
+    print("Backend: Claude (Anthropic) + local embeddings")
+    from lib.llm_claude import ClaudeLLM as LLMClass
+    LLM_MODEL = "claude-haiku-4-5-20251001"
+else:
+    print(f"Backend: OpenAI ({OPENAI_BASE_URL})")
+    from lib.llm import LLM as LLMClass
+    LLM_MODEL = "gpt-4o-mini"
 
 from lib.agents import Agent
 from lib.llm import LLM
 from lib.state_machine import Run
-from lib.messages import BaseMessage, SystemMessage, UserMessage
+from lib.messages import SystemMessage, UserMessage
 from lib.tooling import tool
 from lib.vector_db import VectorStoreManager, CorpusLoaderService
 from lib.rag import RAG
@@ -40,11 +55,16 @@ from tavily import TavilyClient
 
 # ── Vector store + RAG ──────────────────────────────────────────────────────
 print("Setting up vector store...")
-db = VectorStoreManager(OPENAI_API_KEY, api_base=OPENAI_BASE_URL)
+
+if USE_CLAUDE:
+    db = VectorStoreManager(use_local_embeddings=True)
+else:
+    db = VectorStoreManager(OPENAI_API_KEY, api_base=OPENAI_BASE_URL)
+
 loader_service = CorpusLoaderService(db)
 games_store = loader_service.load_json(store_name="games", json_path="games.json")
 
-rag_llm = LLM(model="gpt-4o-mini", temperature=0.3)
+rag_llm = LLMClass(model=LLM_MODEL, temperature=0.3)
 games_rag = RAG(llm=rag_llm, vector_store=games_store)
 
 # ── Tools ────────────────────────────────────────────────────────────────────
@@ -68,7 +88,7 @@ def retrieve_game(query: str) -> str:
     return f"[Retrieved Documents]\n{context}\n\n[Generated Answer]\n{answer}"
 
 
-_eval_llm = LLM(model="gpt-4o-mini", temperature=0.0)
+_eval_llm = LLMClass(model=LLM_MODEL, temperature=0.0)
 
 
 @tool
@@ -107,7 +127,7 @@ Respond ONLY with this JSON:
     return response.content
 
 
-_tavily = TavilyClient(api_key=os.getenv("TAVILY_API_KEY"))
+_tavily = TavilyClient(api_key=TAVILY_API_KEY)
 
 
 @tool
@@ -142,9 +162,10 @@ def game_web_search(query: str) -> str:
 
 # ── Agent ────────────────────────────────────────────────────────────────────
 udaplay = Agent(
-    model_name="gpt-4o-mini",
+    model_name=LLM_MODEL,
     temperature=0.3,
     tools=[retrieve_game, evaluate_retrieval, game_web_search],
+    llm_class=LLMClass,
     instructions=(
         "You are UdaPlay, an expert AI research agent specializing in video game information. "
         "Follow this exact workflow for every query:\n"
@@ -169,7 +190,6 @@ print(f"Query: {QUERY}")
 print("=" * 70)
 
 run = udaplay.invoke(query=QUERY, session_id="open_world_research")
-
 messages = run.get_final_state()["messages"]
 
 print("\n=== Tool calls made ===")
@@ -180,5 +200,4 @@ for m in messages:
             print(f"  → {c.function.name}()")
 
 print("\n=== Final Answer ===")
-final_answer = messages[-1].content
-print(final_answer)
+print(messages[-1].content)

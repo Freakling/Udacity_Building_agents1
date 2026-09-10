@@ -15,11 +15,12 @@ class AgentState(TypedDict):
     current_tool_calls: Optional[List[ToolCall]]  # Current pending tool calls
     
 class Agent:
-    def __init__(self, 
+    def __init__(self,
                  model_name: str,
-                 instructions: str, 
+                 instructions: str,
                  tools: List[Tool] = None,
-                 temperature: float = 0.7):
+                 temperature: float = 0.7,
+                 llm_class=None):
         """
         Initialize an Agent
         
@@ -33,7 +34,8 @@ class Agent:
         self.tools = tools if tools else []
         self.model_name = model_name
         self.temperature = temperature
-        
+        self.llm_class = llm_class or LLM
+
         # Initialize memory and state machine
         self.memory = ShortTermMemory()
         self.workflow = self._create_state_machine()
@@ -57,7 +59,7 @@ class Agent:
     def _llm_step(self, state: AgentState) -> AgentState:
         """Step logic: Process the current state through the LLM"""
         # Initialize LLM
-        llm = LLM(
+        llm = self.llm_class(
             model=self.model_name,
             temperature=self.temperature,
             tools=self.tools

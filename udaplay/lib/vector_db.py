@@ -154,9 +154,12 @@ class VectorStoreManager:
     - Store lifecycle management (create, get, delete)
     """
 
-    def __init__(self, openai_api_key: str, api_base: Optional[str] = None):
+    def __init__(self, openai_api_key: Optional[str] = None, api_base: Optional[str] = None, use_local_embeddings: bool = False):
         self.chroma_client = chromadb.Client()
-        self.embedding_function = self._create_embedding_function(openai_api_key, api_base)
+        if use_local_embeddings or not openai_api_key:
+            self.embedding_function = embedding_functions.DefaultEmbeddingFunction()
+        else:
+            self.embedding_function = self._create_embedding_function(openai_api_key, api_base)
 
     def _create_embedding_function(self, api_key: str, api_base: Optional[str] = None) -> EmbeddingFunction:
         kwargs: Dict[str, Any] = {"api_key": api_key}
