@@ -178,18 +178,41 @@ udaplay = Agent(
     ),
 )
 
-# ── Run the research query ────────────────────────────────────────────────────
-QUERY = (
+# ── Parse CLI argument ────────────────────────────────────────────────────────
+import argparse
+
+_DEFAULT_QUERY = (
     "What is the best open world game ever made? "
     "Based on what makes it great, give me practical tips on how to build "
     "a similar game and monetize it successfully."
 )
 
+parser = argparse.ArgumentParser(description="Run the UdaPlay agent with a query.")
+parser.add_argument(
+    "input",
+    nargs="?",
+    default=None,
+    help='Free text query or JSON object: \'{"query": "...", "session_id": "..."}\'',
+)
+args = parser.parse_args()
+
+QUERY = _DEFAULT_QUERY
+SESSION = "open_world_research"
+
+if args.input:
+    try:
+        parsed = json.loads(args.input)
+        QUERY = parsed.get("query", _DEFAULT_QUERY)
+        SESSION = parsed.get("session_id", "cli_session")
+    except (json.JSONDecodeError, ValueError):
+        QUERY = args.input
+        SESSION = "cli_session"
+
 print(f"\n{'='*70}")
 print(f"Query: {QUERY}")
 print("=" * 70)
 
-run = udaplay.invoke(query=QUERY, session_id="open_world_research")
+run = udaplay.invoke(query=QUERY, session_id=SESSION)
 messages = run.get_final_state()["messages"]
 
 print("\n=== Tool calls made ===")
