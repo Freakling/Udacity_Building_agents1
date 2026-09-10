@@ -33,7 +33,7 @@ assert ANTHROPIC_API_KEY or OPENAI_API_KEY, (
     "Set either ANTHROPIC_API_KEY (Claude) or OPENAI_API_KEY (OpenAI) in config.env"
 )
 
-USE_CLAUDE = bool(ANTHROPIC_API_KEY)
+USE_CLAUDE = bool(ANTHROPIC_API_KEY) and not bool(OPENAI_API_KEY)
 
 if USE_CLAUDE:
     print("Backend: Claude (Anthropic) + local embeddings")
