@@ -92,9 +92,9 @@ class Agent:
             if tool:
                 result = str(tool(**function_args))
                 tool_message = ToolMessage(
-                    content=json.dumps(result), 
-                    tool_call_id=tool_call_id, 
-                    name=function_name, 
+                    content=result,
+                    tool_call_id=tool_call_id,
+                    name=function_name,
                 )
                 tool_messages.append(tool_message)
         

@@ -187,7 +187,9 @@ class VectorStoreManager:
                 embedding_function=self.embedding_function
             )
         except Exception as e:
-            print(f"Pass `force=True` or use `get_or_create_store` method")
+            raise ValueError(
+                f"Store '{store_name}' already exists. Pass `force=True` or use `get_or_create_store`."
+            ) from e
 
         return VectorStore(chroma_collection)
 
