@@ -135,7 +135,7 @@ class VectorStore:
             ids=ids,
             where=where,
             limit=limit,
-            include=['documents', 'distances', 'metadatas']
+            include=['documents', 'metadatas']
         )
 
 class VectorStoreManager:
