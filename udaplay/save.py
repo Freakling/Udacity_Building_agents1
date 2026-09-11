@@ -13,11 +13,15 @@ for nb in notebooks:
     print(f"Executing {nb.name}...")
     result = subprocess.run(
         [sys.executable, "-m", "jupyter", "nbconvert",
-         "--to", "notebook", "--execute", "--inplace", str(nb)],
+         "--to", "notebook", "--execute", "--inplace",
+         "--ExecutePreprocessor.timeout=300",
+         str(nb)],
         capture_output=True, text=True
     )
     if result.returncode != 0:
-        print(f"FAILED: {nb.name}\n{result.stderr}")
+        print(f"FAILED: {nb.name}")
+        print(result.stdout)
+        print(result.stderr)
         sys.exit(result.returncode)
     print(f"  done.")
 
