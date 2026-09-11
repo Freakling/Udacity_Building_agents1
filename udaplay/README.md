@@ -21,6 +21,7 @@ evaluate_retrieval
 | `Udaplay_02_solution_project.ipynb` | Agent: tool orchestration, session memory |
 | `test_agent.py` | CLI runner, accepts free text or JSON |
 | `init.py` | Installs deps, validates API keys |
+| `save.py` | Executes all notebooks in-place and saves outputs |
 | `games.json` | 210 game records, 1978-2024 |
 | `lib/loaders.py` | Extended: `JSONGameLoader` |
 | `lib/vector_db.py` | Extended: `api_base` proxy support, `load_json()` |

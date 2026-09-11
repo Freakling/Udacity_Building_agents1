@@ -31,7 +31,11 @@ python init.py
 cp config.env.template config.env  # fill OPENAI_API_KEY + TAVILY_API_KEY
 ```
 
-Run `Udaplay_01_solution_project.ipynb` then `Udaplay_02_solution_project.ipynb`.
+Run both notebooks manually, or execute and save all outputs in one step:
+
+```bash
+python save.py
+```
 
 ## CLI
 
@@ -53,5 +57,6 @@ udaplay/
 |- games.json               # 210 game records, 1978-2024
 |- config.env.template
 |- requirements.txt
+|- save.py                  # execute all notebooks and save outputs
 +- lib/                     # course framework; loaders.py + vector_db.py extended
 ```
